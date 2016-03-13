@@ -1,0 +1,83 @@
+.shortcode-options {display: none;}
+.btn:hover {
+    color: #fff;
+    background-position: 0 -15px;
+    background-color: #372f3e;
+    text-decoration: none;
+}
+.btn {
+    cursor: pointer;
+    display: table;
+    background-color: #77cc6d;
+    padding: 8px 14px 8px !important;
+    color: #fff!important;
+    font-size: 11px;
+    line-height: normal;
+    -webkit-border-radius: 2px;
+    -moz-border-radius: 2px;
+    border-radius: 2px;
+    -webkit-transition: 0.1s linear all;
+    -moz-transition: 0.1s linear all;
+    -ms-transition: 0.1s linear all;
+    -o-transition: 0.1s linear all;
+    transition: 0.1s linear all;
+    margin-top: 10px;
+    margin-right: 5px;
+    text-decoration: none;
+}
+input[type="text"], textarea, select, #insert-shortcode {
+    padding: 10px;
+    font-size: 12px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: #555;
+}
+select {
+    background: transparent;
+    padding: 5px !important;
+    line-height: 1;
+    height: 34px !important;
+    -webkit-appearance: none;
+    max-width: 90%;
+}
+#cs_shortcode .cs-shortcode-content {
+    padding: 15px 0;
+}
+
+div.option-attribute{
+    margin-bottom: 10px;
+}
+
+.option-attribute div.label span{
+    font-style: italic;
+    color: #333333;
+}
+
+div.label {
+    display: inline-block;
+    width: 50%;
+}
+div.content {
+    display: inline-block;
+    width: 49%;
+    vertical-align: top;
+}
+div.hr {
+    width: 100%;
+    margin: 10px 0px;
+    border-bottom: 1px solid #ddd;
+}
+input[type="text"], textarea {
+    width: 100%;
+    box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    -webkit-box-sizing: border-box;
+    -o-box-sizing: border-box;
+}
+#TB_ajaxContent{
+    overflow-y: auto!important;
+    width: auto!important;
+    height: auto!important;
+}
+
+.pro-screenshot{max-width: 300px; max-height: 200px;}
+

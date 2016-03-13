@@ -1,0 +1,347 @@
+/*
+Theme Name: CmsSuperHero
+Theme URI: http://cmssuperheroes.com/wordpress/cshero
+Author: Cmssuperheroes Team
+Author URI: http://cmssuperheroes.com/
+Version: 1.0
+License: GNU General Public License v2 or later
+License URI: http://www.gnu.org/licenses/gpl-2.0.html
+Tags: black, green, white, light, dark, two-columns, three-columns, left-sidebar, right-sidebar, fixed-layout, responsive-layout, custom-background, custom-header, custom-menu, editor-style, featured-images, flexible-header, full-width-template, microformats, post-formats, rtl-language-support, sticky-post, theme-options, translation-ready, accessibility-ready
+Description: In 2014, Creating a magazine website with WordPress has never been easier.
+Text Domain: cshero
+*/
+
+/*
+    Main Color: #c79c60;
+*/
+
+/* ==========================================================================
+   Start carousel latest work style1
+========================================================================== */
+.cs-carousel-post img {
+    display: block;
+}
+.cs-carousel-post .cs-header {
+	margin: 0 0 20px;
+}
+.cs-carousel-post h3.cs-title {
+	border-bottom: 1px solid #ddd;
+    font-size: 18px;
+    margin: 0 0 15px !important;
+}
+.cs-carousel-post h3.cs-title span.line {
+	display: inline-block;
+    padding: 0 0 10px 0;
+}
+.cs-carousel-post .cs-carousel-header {
+	position: relative;
+}
+.cs-carousel-post .cs-carousel-header img {
+    width: 100%;
+    transform: translateY(0px) !important;
+}
+.cs-carousel-post.cs-carousel-post-default1 .cs-more-post {
+    font-size: 42px;
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    display: block;
+    height: 50px;
+    width: 50px;
+    text-align: center;
+    line-height: 50px;
+    margin: auto !important;
+    right: 0;
+    left: 0;
+    opacity: 0;
+    z-index: 1;
+    -webkit-transition: all 0.2s linear 0s;
+    -moz-transition: all 0.2s linear 0s;
+    -o-transition: all 0.2s linear 0s;
+    -ms-transition: all 0.2s linear 0s;
+    transition: all 0.2s linear 0s;
+    -webkit-transform:translateY(-300%);
+       -moz-transform:translateY(-300%);
+        -ms-transform:translateY(-300%);
+         -o-transform:translateY(-300%);
+            transform:translateY(-300%);
+}
+.cs-carousel-post .cs-more-post a {
+	color: #fff;
+}
+.cs-carousel-post .cs-carousel-header:before {
+	content: "";
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background: transparent;
+    display: block;
+    z-index: 1;
+    -webkit-transition: all 0.2s linear 0s;
+    -moz-transition: all 0.2s linear 0s;
+    -o-transition: all 0.2s linear 0s;
+    -ms-transition: all 0.2s linear 0s;
+    transition: all 0.2s linear 0s;
+}
+.cs-carousel-post.cs-carousel-post-default1 .cs-carousel-header:hover .cs-more-post {
+	opacity: 1;
+	-webkit-transform:translateY(0);
+       -moz-transform:translateY(0);
+        -ms-transform:translateY(0);
+         -o-transform:translateY(0);
+            transform:translateY(0);
+}
+.cs-carousel-post .cs-carousel-body h3.cs-carousel-title  {
+	line-height: 22px;
+    margin: 20px 0;
+}
+.cs-carousel-post .cs-carousel-body h3.cs-carousel-title a {
+	display: block;
+    font-size: 16px;
+}
+.cs-carousel-post .cs-carousel-body .cs-carousel-post-description {
+	margin: 0 0 14px;
+}
+.cs-carousel-post .cs-carousel-body .cs-carousel-meta {
+	line-height: 26px;
+    border-top: 1px solid #e9e9e9;
+    border-bottom: 1px solid #e9e9e9;
+    padding: 8px 0;
+}
+.cs-carousel-post .cs-carousel-body .cs-carousel-meta span + span {
+	margin-left: 5px;
+}
+.cs-carousel-post .cs-carousel-footer {
+	margin: 17px 0 0;
+}
+.cs-carousel-post.cs-carousel-post-default2 h3.cs-carousel-title {
+	line-height: 22px;
+    margin: 0 0 20px;
+}
+.cs-carousel-post.cs-carousel-post-default2 h3.cs-carousel-title a {
+	display: block;
+    font-size: 16px;
+}
+.cs-carousel-post.cs-carousel-post-default2 .cs-carousel-body .cs-carousel-meta {
+	margin: 20px 0;
+}
+.cs-carousel-post.post-style-parallax .cs-carousel-container {
+	background: #fff;
+	padding: 20px;
+}
+.cs-carousel-post.post-style-parallax h3.cs-title {
+	border-color: #fff;
+}
+.cs-carousel-post.post-style-parallax h3.cs-title span.line {
+	-webkit-box-shadow: none;
+       -moz-box-shadow: none;
+        -ms-box-shadow: none;
+         -o-box-shadow: none;
+            box-shadow: none;
+             color: #fff;
+}
+.cs-carousel-post .cs-nav {
+    text-align: right;
+}
+.cs-carousel-post .cs-header .cs-title + .cs-nav {
+    position: absolute;
+    top: 0;
+    right: 15px;
+}
+.rtl .cs-carousel-post .cs-header .cs-title + .cs-nav {
+    right: inherit;
+    left: 0;
+}
+.rtl .cs-carousel-post .cs-nav {
+    text-align: left;
+}
+.cs-carousel-post.post-style-parallax .cs-nav li a i {
+	color: #fff;
+}
+.rtl .cs-carousel-post .cs-nav {
+    right: inherit;
+    left: 15px;
+}
+.cs-carousel-post.cs-carousel-post-default2 .cs-more-meta {
+    position: absolute;
+    top: 0;
+    right: 0;
+    height: 130px;
+    width: 100%;
+    margin: auto;
+    bottom: 0;
+    left: 0;
+    text-align: center;
+    opacity: 0;
+    z-index: 2;
+    padding: 40px 0;
+    overflow: hidden;
+    overflow: -moz-hidden-unscrollable;
+    -webkit-transition: all 0.2s linear 0s;
+    -moz-transition: all 0.2s linear 0s;
+    -o-transition: all 0.2s linear 0s;
+    -ms-transition: all 0.2s linear 0s;
+    transition: all 0.2s linear 0s;
+}
+.cs-carousel-post.cs-carousel-post-default2 .cs-more-meta span {
+	display: block;
+	line-height: 16px;
+}
+.cs-carousel-post.cs-carousel-post-default2 .cs-more-meta i {
+	color: #fff;
+    font-size: 22px;
+    line-height: 22px;
+    margin-right: 12px;
+}
+.rtl .cs-carousel-post.cs-carousel-post-default2 .cs-more-meta i {
+	margin: 0 0 0 12px;
+}
+.cs-carousel-post.cs-carousel-post-default2 .cs-more-meta a {
+	color: #fff;
+	text-transform: uppercase;
+    color: #fff;
+    font-family: "Novecentowide-Medium";
+    line-height: 22px;
+    vertical-align: top;
+}
+.cs-carousel-post.cs-carousel-post-default2 .cs-carousel-header:hover .cs-more-meta {
+	opacity: 1;
+}
+.cs-carousel-post.cs-carousel-post-default2 .cs-more-meta .cs-meta-readmore {
+    /*-webkit-transform:translateX(-400px);
+       -moz-transform:translateX(-400px);
+        -ms-transform:translateX(-400px);
+            transform:translateX(-400px);
+            overflow: hidden;
+    */
+    display: block;
+    margin-left: -300px;
+    -webkit-transition: all 300ms linear 0ms;
+       -moz-transition: all 300ms linear 0ms;
+         -o-transition: all 300ms linear 0ms;
+        -ms-transition: all 300ms linear 0ms;
+            transition: all 300ms linear 0ms;
+}
+.cs-carousel-post.cs-carousel-post-default2 .cs-more-meta .cs-meta-zoom {
+    /*-webkit-transform:translateX(400px);
+       -moz-transform:translateX(400px);
+        -ms-transform:translateX(400px);
+            transform:translateX(400px);
+            overflow: hidden;
+    */
+    display: block;
+    margin-right: -300px;        
+    -webkit-transition: all 300ms linear 0ms;
+       -moz-transition: all 300ms linear 0ms;
+         -o-transition: all 300ms linear 0ms;
+        -ms-transition: all 300ms linear 0ms;
+            transition: all 300ms linear 0ms;      
+}
+.cs-carousel-post.cs-carousel-post-default2 .cs-carousel-header:hover .cs-more-meta .cs-meta-zoom,
+.cs-carousel-post.cs-carousel-post-default2 .cs-carousel-header:hover .cs-more-meta .cs-meta-readmore {
+    /*-webkit-transform:translateX(0);
+       -moz-transform:translateX(0);
+        -ms-transform:translateX(0);
+            transform:translateX(0);*/
+            margin: 0;
+
+}
+.cs-carousel-post.cs-carousel-post-default2 .cs-carousel-header:hover .cs-more-meta .cs-meta-zoom a {
+    outline: none;
+}
+/* ==========================================================================
+   Start carousel latest work style1
+========================================================================== */
+
+/* ==========================================================================
+   Start carousel Blog Theme Retro
+========================================================================== */
+.cs-blog-carousel-retro .cs-carousel-item {
+    background: #fefdf4;
+}
+.cs-blog-carousel-retro .cs-carousel-header {
+    position: relative;
+}
+.cs-blog-carousel-retro .cs-carousel-header:before {
+    content: "";
+    background: url(../images/theme-retro/bg-line-blogRetro.png) no-repeat center top;
+    position: absolute;
+    bottom: -5px;
+    left: 0;
+    width: 100%;
+    height: 14px;
+}
+.cs-blog-carousel-retro .cs-carousel-post-title {
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+}
+.cs-blog-carousel-retro .cs-carousel-post-title h2 {
+    text-align: center;
+    text-transform: none;
+    margin: 0 0 20px !important;
+}
+.cs-blog-carousel-retro .cs-carousel-post-title h2 a {
+    font-size: 21px;
+    color: #fff;
+}
+.cs-blog-carousel-retro .cs-carousel-header img {
+    width: 100%;
+}
+.cs-blog-carousel-retro .cs-carousel-body {
+    padding: 25px 35px 35px;
+}
+.cs-blog-carousel-retro .cs-carousel-header-feature {
+    text-align: center;
+}
+.cs-blog-carousel-retro .cs-carousel-header-feature .cs-carousel-date {
+    float: left;
+    font-size: 10px;
+    text-transform: uppercase;
+}
+.cs-blog-carousel-retro .cs-carousel-header-feature .cs-carousel-date {
+    margin-right: 8px;
+}
+.cs-blog-carousel-retro .cs-carousel-header-feature .cs-carousel-like {
+    float: right;
+    font-size: 10px;
+    text-transform: uppercase;
+}
+.cs-blog-carousel-retro .cs-carousel-header-feature .cs-carousel-like {
+    margin-left: 8px;
+}
+.cs-blog-carousel-retro .cs-carousel-category {
+    font-weight: 300;
+    font-size: 18px;
+}
+.cs-blog-carousel-retro .cs-carousel-post-title h2.entry-title a {
+    font-weight: 300;
+    font-size: 21px;
+    color: #fef6d5;
+}
+.cs-blog-carousel-retro .cs-carousel-post-description {
+    text-align: center;
+}
+.cs-blog-carousel-retro .cs-carousel-post-read-more {
+    text-align: center;
+}
+.cs-blog-carousel-retro .cs-sep {
+    display: block;
+    height: 7px;
+    width: 100%;
+    margin: 10px 0;
+    background: url(../images/theme-retro/bg-blog-sep.png) no-repeat center top;
+}
+.cs-carousel-post.cs-style-retro .cs-carousel-container {
+    background: #fefdf4;
+    padding: 18px;
+}
+.cs-carousel-post.cs-style-retro .cs-carousel-container:hover {
+    background: #fff;
+}
+/* ==========================================================================
+   End carousel Blog Theme Retro
+========================================================================== */

@@ -1,0 +1,12 @@
+.widget_cart_search_wrap{
+	position: relative;
+	z-index: 9999;
+}
+.shopping_cart_dropdown,.widget_searchform_content{
+	display: none;
+	position: absolute;
+	transition:All 1s ease;
+}
+.shopping_cart_dropdown.active,.widget_searchform_content.active{
+	display: block;
+}

@@ -1,0 +1,58 @@
+.q_counter_holder {
+	display: block;
+	opacity: 1;
+	filter: alpha(opacity=0);
+	-webkit-transition: opacity .2s ease 0s;
+	-moz-transition: opacity .2s ease 0s;
+	-o-transition: opacity .2s ease 0s;
+	-ms-transition: opacity .2s ease 0s;
+	transition: opacity .2s ease 0s;
+	padding: 20px 0;
+}
+
+.q_counter_holder.boxed_counter {
+	border: 1px solid #afafaf;
+	padding: 20px 40px;
+	background-color: transparent;
+}
+
+.q_counter_holder.left {
+	text-align: left;
+}
+
+.q_counter_holder.right {
+	text-align: right;
+}
+
+.q_counter_holder.center {
+	text-align: center;
+	padding: 20px 40px;
+}
+
+.q_counter_holder span.counter {
+	font-size: 75px;
+	line-height: 1em;
+	color: #5d5d5d;
+	overflow: hidden;
+	display: inline-block !important;
+	height: 1em;
+}
+
+.q_counter_holder p.counter_text {
+	margin: 12px 0 0 0;
+	font-size: 18px;
+}
+
+.q_counter_holder .separator.small {
+	margin: 10px auto 0px auto;
+}
+
+.q_counter_holder.left .separator.small {
+	margin-left: 0;
+	margin-right: auto;
+}
+
+.q_counter_holder.right .separator.small {
+	margin-left: auto;
+	margin-right: 0;
+}

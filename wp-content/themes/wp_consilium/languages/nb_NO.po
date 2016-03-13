@@ -1,0 +1,4616 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Consilium\n"
+"POT-Creation-Date: 2014-09-11 09:34+0700\n"
+"PO-Revision-Date: 2014-09-11 09:39+0700\n"
+"Last-Translator: \n"
+"Language-Team: exp <exp@exp.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.6.9\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: _e;__\n"
+"Language: nb_NO\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPath-1: ..\n"
+
+#: ../admin/classes/class.options_machine.php:535
+msgid "Last Backup : "
+msgstr ""
+
+#: ../admin/envato-wordpress-toolkit-library/class-envato-protected-api.php:67
+msgid "Please enter your Envato Marketplace Username."
+msgstr ""
+
+#: ../admin/envato-wordpress-toolkit-library/class-envato-protected-api.php:71
+msgid "Please enter your Envato Marketplace API Key."
+msgstr ""
+
+#: ../admin/envato-wordpress-toolkit-library/class-envato-protected-api.php:96
+msgid "The API \"set\" is a required parameter."
+msgstr ""
+
+#: ../admin/envato-wordpress-toolkit-library/class-envato-protected-api.php:167
+msgid "The Envato Marketplace \"item ID\" is a required parameter."
+msgstr ""
+
+#: ../admin/envato-wordpress-toolkit-library/class-envato-wordpress-theme-upgrader.php:266
+msgid "Downloading upgrade package from the Envato API&#8230;"
+msgstr ""
+
+#: ../admin/envato-wordpress-toolkit-library/class-envato-wordpress-theme-upgrader.php:277
+msgid "Downloading install package from the Envato API&#8230;"
+msgstr ""
+
+#: ../admin/front-end/options.php:41
+msgid "Rebuild"
+msgstr ""
+
+#: ../admin/front-end/options.php:43 ../admin/front-end/options.php:67
+msgid "Save All Changes"
+msgstr ""
+
+#: ../admin/meta-boxes/meta-config.php:55
+#: ../framework/tinymce/cs_shortcode_option.php:1
+msgid "Upload"
+msgstr ""
+
+#: ../admin/meta-boxes/meta-config.php:56
+#: ../framework/tinymce/cs_shortcode_option.php:1
+msgid "Remove Upload"
+msgstr ""
+
+#: ../admin/meta-boxes/meta-config.php:67
+msgid "Add Media"
+msgstr ""
+
+#: ../admin/meta-boxes/meta-config.php:68
+msgid "Remove Media"
+msgstr ""
+
+#: ../admin/meta-boxes/post-meta.php:27
+msgid "User Team Settings"
+msgstr ""
+
+#: ../admin/meta-boxes/post-meta.php:34
+msgid "User team"
+msgstr ""
+
+#: ../admin/meta-boxes/post-meta.php:35
+msgid "Please select user team for your post here."
+msgstr ""
+
+#: ../admin/meta-boxes/post-meta.php:50 ../admin/meta-boxes/post-meta.php:57
+msgid "Custom Field"
+msgstr ""
+
+#: ../admin/meta-boxes/post-meta.php:58
+msgid "Please enter custom field for your portfolio here."
+msgstr ""
+
+#: ../admin/sample/wordpress-importer/parsers.php:42
+#: ../admin/sample/wordpress-importer/parsers.php:63
+msgid "There was an error when reading this WXR file"
+msgstr ""
+
+#: ../admin/sample/wordpress-importer/parsers.php:43
+msgid ""
+"Details are shown above. The importer will now try again with a different "
+"parser..."
+msgstr ""
+
+#: ../admin/sample/wordpress-importer/parsers.php:67
+#: ../admin/sample/wordpress-importer/parsers.php:72
+#: ../admin/sample/wordpress-importer/parsers.php:262
+#: ../admin/sample/wordpress-importer/parsers.php:451
+msgid ""
+"This does not appear to be a WXR file, missing/invalid WXR version number"
+msgstr ""
+
+#: ../admin/sample/wordpress-importer/wordpress-importer.php:134
+#: ../admin/sample/wordpress-importer/wordpress-importer.php:185
+#: ../admin/sample/wordpress-importer/wordpress-importer.php:189
+#: ../admin/sample/wordpress-importer/wordpress-importer.php:198
+msgid "Sorry, there has been an error."
+msgstr ""
+
+#: ../admin/sample/wordpress-importer/wordpress-importer.php:169
+msgid "All done."
+msgstr ""
+
+#: ../admin/sample/wordpress-importer/wordpress-importer.php:169
+msgid "Have fun!"
+msgstr ""
+
+#: ../admin/sample/wordpress-importer/wordpress-importer.php:170
+msgid "Remember to update the passwords and roles of imported users."
+msgstr ""
+
+#: ../admin/sample/wordpress-importer/wordpress-importer.php:190
+#, php-format
+msgid ""
+"The export file could not be found at <code>%s</code>. It is likely that "
+"this was caused by a permissions problem."
+msgstr ""
+
+#: ../admin/sample/wordpress-importer/wordpress-importer.php:206
+#, php-format
+msgid ""
+"This WXR file (version %s) may not be supported by this version of the "
+"importer. Please consider updating."
+msgstr ""
+
+#: ../admin/sample/wordpress-importer/wordpress-importer.php:231
+#, php-format
+msgid ""
+"Failed to import author %s. Their posts will be attributed to the current "
+"user."
+msgstr ""
+
+#: ../admin/sample/wordpress-importer/wordpress-importer.php:257
+msgid "Assign Authors"
+msgstr ""
+
+#: ../admin/sample/wordpress-importer/wordpress-importer.php:258
+msgid ""
+"To make it easier for you to edit and save the imported content, you may "
+"want to reassign the author of the imported item to an existing user of this "
+"site. For example, you may want to import all the entries as <code>admin</"
+"code>s entries."
+msgstr ""
+
+#: ../admin/sample/wordpress-importer/wordpress-importer.php:260
+#, php-format
+msgid ""
+"If a new user is created by WordPress, a new password will be randomly "
+"generated and the new user&#8217;s role will be set as %s. Manually changing "
+"the new user&#8217;s details will be necessary."
+msgstr ""
+
+#: ../admin/sample/wordpress-importer/wordpress-importer.php:270
+msgid "Import Attachments"
+msgstr ""
+
+#: ../admin/sample/wordpress-importer/wordpress-importer.php:273
+msgid "Download and import file attachments"
+msgstr ""
+
+#: ../admin/sample/wordpress-importer/wordpress-importer.php:290
+msgid "Import author:"
+msgstr ""
+
+#: ../admin/sample/wordpress-importer/wordpress-importer.php:301
+msgid "or create new user with login name:"
+msgstr ""
+
+#: ../admin/sample/wordpress-importer/wordpress-importer.php:304
+msgid "as a new user:"
+msgstr ""
+
+#: ../admin/sample/wordpress-importer/wordpress-importer.php:312
+msgid "assign posts to an existing user:"
+msgstr ""
+
+#: ../admin/sample/wordpress-importer/wordpress-importer.php:314
+msgid "or assign posts to an existing user:"
+msgstr ""
+
+#: ../admin/sample/wordpress-importer/wordpress-importer.php:315
+msgid "- Select -"
+msgstr ""
+
+#: ../admin/sample/wordpress-importer/wordpress-importer.php:365
+#, php-format
+msgid ""
+"Failed to create new user for %s. Their posts will be attributed to the "
+"current user."
+msgstr ""
+
+#: ../admin/sample/wordpress-importer/wordpress-importer.php:414
+#, php-format
+msgid "Failed to import category %s"
+msgstr ""
+
+#: ../admin/sample/wordpress-importer/wordpress-importer.php:452
+#, php-format
+msgid "Failed to import post tag %s"
+msgstr ""
+
+#: ../admin/sample/wordpress-importer/wordpress-importer.php:496
+#: ../admin/sample/wordpress-importer/wordpress-importer.php:624
+#, php-format
+msgid "Failed to import %s %s"
+msgstr ""
+
+#: ../admin/sample/wordpress-importer/wordpress-importer.php:518
+#, php-format
+msgid "Failed to import &#8220;%s&#8221;: Invalid post type %s"
+msgstr ""
+
+#: ../admin/sample/wordpress-importer/wordpress-importer.php:539
+#, php-format
+msgid "%s &#8220;%s&#8221; already exists."
+msgstr ""
+
+#: ../admin/sample/wordpress-importer/wordpress-importer.php:596
+#, php-format
+msgid "Failed to import %s &#8220;%s&#8221;"
+msgstr ""
+
+#: ../admin/sample/wordpress-importer/wordpress-importer.php:760
+msgid "Menu item skipped due to missing menu slug"
+msgstr ""
+
+#: ../admin/sample/wordpress-importer/wordpress-importer.php:767
+#, php-format
+msgid "Menu item skipped due to invalid menu slug: %s"
+msgstr ""
+
+#: ../admin/sample/wordpress-importer/wordpress-importer.php:830
+msgid "Fetching attachments is not enabled"
+msgstr ""
+
+#: ../admin/sample/wordpress-importer/wordpress-importer.php:843
+msgid "Invalid file type"
+msgstr ""
+
+#: ../admin/sample/wordpress-importer/wordpress-importer.php:887
+msgid "Remote server did not respond"
+msgstr ""
+
+#: ../admin/sample/wordpress-importer/wordpress-importer.php:893
+#, php-format
+msgid "Remote server returned error response %1$d %2$s"
+msgstr ""
+
+#: ../admin/sample/wordpress-importer/wordpress-importer.php:900
+msgid "Remote file is incorrect size"
+msgstr ""
+
+#: ../admin/sample/wordpress-importer/wordpress-importer.php:905
+msgid "Zero size file downloaded"
+msgstr ""
+
+#: ../admin/sample/wordpress-importer/wordpress-importer.php:911
+#, php-format
+msgid "Remote file is too large, limit is %s"
+msgstr ""
+
+#: ../admin/sample/wordpress-importer/wordpress-importer.php:1024
+msgid "Import WordPress"
+msgstr ""
+
+#: ../admin/sample/wordpress-importer/wordpress-importer.php:1031
+#, php-format
+msgid ""
+"A new version of this importer is available. Please update to version %s to "
+"ensure compatibility with newer export files."
+msgstr ""
+
+#: ../admin/sample/wordpress-importer/wordpress-importer.php:1046
+msgid ""
+"Howdy! Upload your WordPress eXtended RSS (WXR) file and we&#8217;ll import "
+"the posts, pages, comments, custom fields, categories, and tags into this "
+"site."
+msgstr ""
+
+#: ../admin/sample/wordpress-importer/wordpress-importer.php:1047
+msgid "Choose a WXR (.xml) file to upload, then click Upload file and import."
+msgstr ""
+
+#: ../admin/sample/wordpress-importer/wordpress-importer.php:1122
+msgid ""
+"Import <strong>posts, pages, comments, custom fields, categories, and tags</"
+"strong> from a WordPress export file."
+msgstr ""
+
+#: ../admin/tgm-plugin-activation/class-tgm-plugin-activation.php:155
+#: ../admin/tgm-plugin-activation/plugin-options.php:107
+msgid "Install Required Plugins"
+msgstr ""
+
+#: ../admin/tgm-plugin-activation/class-tgm-plugin-activation.php:156
+#: ../admin/tgm-plugin-activation/plugin-options.php:108
+msgid "Install Plugins"
+msgstr ""
+
+#: ../admin/tgm-plugin-activation/class-tgm-plugin-activation.php:157
+#: ../admin/tgm-plugin-activation/plugin-options.php:109
+#, php-format
+msgid "Installing Plugin: %s"
+msgstr ""
+
+#: ../admin/tgm-plugin-activation/class-tgm-plugin-activation.php:158
+msgid "Something went wrong."
+msgstr ""
+
+#: ../admin/tgm-plugin-activation/class-tgm-plugin-activation.php:169
+#: ../admin/tgm-plugin-activation/plugin-options.php:121
+msgid "Return to Required Plugins Installer"
+msgstr ""
+
+#: ../admin/tgm-plugin-activation/class-tgm-plugin-activation.php:170
+msgid "Return to the dashboard"
+msgstr ""
+
+#: ../admin/tgm-plugin-activation/class-tgm-plugin-activation.php:171
+#: ../admin/tgm-plugin-activation/class-tgm-plugin-activation.php:1782
+#: ../admin/tgm-plugin-activation/plugin-options.php:122
+msgid "Plugin activated successfully."
+msgstr ""
+
+#: ../admin/tgm-plugin-activation/class-tgm-plugin-activation.php:172
+msgid "The following plugin was activated successfully:"
+msgstr ""
+
+#: ../admin/tgm-plugin-activation/class-tgm-plugin-activation.php:173
+#, php-format
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr ""
+
+#: ../admin/tgm-plugin-activation/class-tgm-plugin-activation.php:174
+msgid "Dismiss this notice"
+msgstr ""
+
+#: ../admin/tgm-plugin-activation/class-tgm-plugin-activation.php:1051
+msgid "External Link"
+msgstr ""
+
+#: ../admin/tgm-plugin-activation/class-tgm-plugin-activation.php:1055
+msgid "Private Repository"
+msgstr ""
+
+#: ../admin/tgm-plugin-activation/class-tgm-plugin-activation.php:1058
+msgid "Pre-Packaged"
+msgstr ""
+
+#: ../admin/tgm-plugin-activation/class-tgm-plugin-activation.php:1062
+msgid "WordPress Repository"
+msgstr ""
+
+#: ../admin/tgm-plugin-activation/class-tgm-plugin-activation.php:1065
+msgid "Required"
+msgstr ""
+
+#: ../admin/tgm-plugin-activation/class-tgm-plugin-activation.php:1065
+msgid "Recommended"
+msgstr ""
+
+#: ../admin/tgm-plugin-activation/class-tgm-plugin-activation.php:1068
+msgid "Not Installed"
+msgstr ""
+
+#: ../admin/tgm-plugin-activation/class-tgm-plugin-activation.php:1070
+msgid "Installed But Not Activated"
+msgstr ""
+
+#: ../admin/tgm-plugin-activation/class-tgm-plugin-activation.php:1227
+#, php-format
+msgid ""
+"No plugins to install or activate. <a href=\"%1$s\" title=\"Return to the "
+"Dashboard\">Return to the Dashboard</a>"
+msgstr ""
+
+#: ../admin/tgm-plugin-activation/class-tgm-plugin-activation.php:1242
+msgid "Plugin"
+msgstr ""
+
+#: ../admin/tgm-plugin-activation/class-tgm-plugin-activation.php:1243
+msgid "Source"
+msgstr ""
+
+#: ../admin/tgm-plugin-activation/class-tgm-plugin-activation.php:1244
+#: ../framework/includes/vc_extra_shortcodes/counter.php:12
+#: ../framework/includes/vc_extra_shortcodes/eventscarousel.php:37
+#: ../framework/includes/vc_extra_shortcodes/piechart.php:45
+#: ../framework/includes/vc_extra_shortcodes/recentpost.php:61
+#: ../framework/tinymce/cs_shortcode_list.php:116
+#: ../framework/tinymce/cs_shortcode_list.php:1095
+msgid "Type"
+msgstr ""
+
+#: ../admin/tgm-plugin-activation/class-tgm-plugin-activation.php:1245
+msgid "Status"
+msgstr ""
+
+#: ../admin/tgm-plugin-activation/class-tgm-plugin-activation.php:1262
+msgid "Install"
+msgstr ""
+
+#: ../admin/tgm-plugin-activation/class-tgm-plugin-activation.php:1263
+msgid "Activate"
+msgstr ""
+
+#: ../admin/tgm-plugin-activation/class-tgm-plugin-activation.php:1766
+msgid "Install package not available."
+msgstr ""
+
+#: ../admin/tgm-plugin-activation/class-tgm-plugin-activation.php:1767
+#, php-format
+msgid "Downloading install package from <span class=\"code\">%s</span>&#8230;"
+msgstr ""
+
+#: ../admin/tgm-plugin-activation/class-tgm-plugin-activation.php:1768
+msgid "Unpacking the package&#8230;"
+msgstr ""
+
+#: ../admin/tgm-plugin-activation/class-tgm-plugin-activation.php:1769
+msgid "Installing the plugin&#8230;"
+msgstr ""
+
+#: ../admin/tgm-plugin-activation/class-tgm-plugin-activation.php:1770
+msgid "Plugin install failed."
+msgstr ""
+
+#: ../admin/tgm-plugin-activation/class-tgm-plugin-activation.php:1771
+msgid "Plugin installed successfully."
+msgstr ""
+
+#: ../admin/tgm-plugin-activation/class-tgm-plugin-activation.php:1781
+msgid "Plugin activation failed."
+msgstr ""
+
+#: ../admin/tgm-plugin-activation/class-tgm-plugin-activation.php:1890
+msgid ""
+"The installation and activation process is starting. This process may take a "
+"while on some hosts, so please be patient."
+msgstr ""
+
+#: ../admin/tgm-plugin-activation/class-tgm-plugin-activation.php:1891
+#, php-format
+msgid "%1$s installed and activated successfully."
+msgstr ""
+
+#: ../admin/tgm-plugin-activation/class-tgm-plugin-activation.php:1891
+#: ../admin/tgm-plugin-activation/class-tgm-plugin-activation.php:1899
+msgid "Show Details"
+msgstr ""
+
+#: ../admin/tgm-plugin-activation/class-tgm-plugin-activation.php:1891
+#: ../admin/tgm-plugin-activation/class-tgm-plugin-activation.php:1899
+msgid "Hide Details"
+msgstr ""
+
+#: ../admin/tgm-plugin-activation/class-tgm-plugin-activation.php:1892
+msgid "All installations and activations have been completed."
+msgstr ""
+
+#: ../admin/tgm-plugin-activation/class-tgm-plugin-activation.php:1893
+#, php-format
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: ../admin/tgm-plugin-activation/class-tgm-plugin-activation.php:1896
+msgid ""
+"The installation process is starting. This process may take a while on some "
+"hosts, so please be patient."
+msgstr ""
+
+#: ../admin/tgm-plugin-activation/class-tgm-plugin-activation.php:1897
+#, php-format
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr ""
+
+#: ../admin/tgm-plugin-activation/class-tgm-plugin-activation.php:1898
+#, php-format
+msgid "The installation of %1$s failed."
+msgstr ""
+
+#: ../admin/tgm-plugin-activation/class-tgm-plugin-activation.php:1899
+#, php-format
+msgid "%1$s installed successfully."
+msgstr ""
+
+#: ../admin/tgm-plugin-activation/class-tgm-plugin-activation.php:1900
+msgid "All installations have been completed."
+msgstr ""
+
+#: ../admin/tgm-plugin-activation/class-tgm-plugin-activation.php:1901
+#, php-format
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: ../admin/tgm-plugin-activation/class-tgm-plugin-activation.php:1988
+msgid "Return to the Dashboard"
+msgstr ""
+
+#: ../admin/tgm-plugin-activation/plugin-options.php:110
+msgid "Something went wrong with the plugin API."
+msgstr ""
+
+#: ../admin/tgm-plugin-activation/plugin-options.php:123
+#, php-format
+msgid "All plugins installed and activated successfully. %s"
+msgstr ""
+
+#: ../archive.php:36 ../author.php:36 ../header.php:123
+#, php-format
+msgid "Author: %s"
+msgstr ""
+
+#: ../archive.php:39 ../author.php:39 ../header.php:125
+#, php-format
+msgid "Day: %s"
+msgstr ""
+
+#: ../archive.php:42 ../author.php:42 ../header.php:127
+#, php-format
+msgid "Month: %s"
+msgstr ""
+
+#: ../archive.php:45 ../author.php:45 ../header.php:129
+#, php-format
+msgid "Year: %s"
+msgstr ""
+
+#: ../archive.php:48 ../author.php:48 ../header.php:131
+msgid "Asides"
+msgstr ""
+
+#: ../archive.php:51 ../author.php:51 ../header.php:133
+msgid "Galleries"
+msgstr ""
+
+#: ../archive.php:54 ../author.php:54 ../header.php:135
+msgid "Images"
+msgstr ""
+
+#: ../archive.php:57 ../author.php:57 ../header.php:137
+msgid "Videos"
+msgstr ""
+
+#: ../archive.php:60 ../author.php:60 ../header.php:139
+msgid "Quotes"
+msgstr ""
+
+#: ../archive.php:63 ../author.php:63 ../header.php:141
+msgid "Links"
+msgstr ""
+
+#: ../archive.php:66 ../author.php:66 ../header.php:143
+msgid "Statuses"
+msgstr ""
+
+#: ../archive.php:69 ../author.php:69 ../header.php:145
+msgid "Audios"
+msgstr ""
+
+#: ../archive.php:72 ../author.php:72 ../header.php:147
+msgid "Chats"
+msgstr ""
+
+#: ../archive.php:75 ../author.php:75 ../header.php:150
+msgid "Archives"
+msgstr ""
+
+#: ../comments.php:27 ../framework/widgets/news_tabs.php:51
+msgid "Comments"
+msgstr ""
+
+#: ../comments.php:27 ../framework/templates/multiple-blog.php:107
+#: ../framework/templates/multiple-blog.php:169
+msgid "1 Comments"
+msgstr ""
+
+#: ../comments.php:27 ../framework/templates/multiple-blog.php:107
+#: ../framework/templates/multiple-blog.php:169
+msgid "% Comments"
+msgstr ""
+
+#: ../comments.php:32 ../comments.php:49
+msgid "Comment navigation"
+msgstr ""
+
+#: ../comments.php:33 ../comments.php:50
+msgid "&larr; Older Comments"
+msgstr ""
+
+#: ../comments.php:34 ../comments.php:51
+msgid "Newer Comments &rarr;"
+msgstr ""
+
+#: ../comments.php:61
+msgid "Comments are closed."
+msgstr ""
+
+#: ../comments.php:71
+msgid "Post a comment"
+msgstr ""
+
+#: ../comments.php:72 ../woocommerce/single-product-reviews.php:52
+#, php-format
+msgid "Leave a Reply to %s"
+msgstr ""
+
+#: ../comments.php:73
+msgid "Cancel Reply"
+msgstr ""
+
+#: ../comments.php:74 ../woocommerce/single-product-reviews.php:61
+msgid "Submit"
+msgstr ""
+
+#: ../comments.php:76
+msgid "Write your comment here."
+msgstr ""
+
+#: ../comments.php:84
+msgid "Your full name"
+msgstr ""
+
+#: ../comments.php:89
+msgid "E-mail address"
+msgstr ""
+
+#: ../comments.php:94
+msgid "Website"
+msgstr ""
+
+#: ../framework/includes/post_favorite.php:71
+msgid "Love this"
+msgstr ""
+
+#: ../framework/includes/post_favorite.php:75
+msgid "You already love this!"
+msgstr ""
+
+#: ../framework/includes/resize.php:65 ../framework/includes/resize.php:170
+msgid "Image is BMP. Please use either JPG or PNG."
+msgstr ""
+
+#: ../framework/includes/resize.php:143
+msgid "No image URL has been entered."
+msgstr ""
+
+#: ../framework/includes/resize.php:192
+msgid "Failed to get $file_path information using \"@getimagesize\"."
+msgstr ""
+
+#: ../framework/includes/resize.php:225
+msgid "Resize path invalid (GIF)"
+msgstr ""
+
+#: ../framework/includes/resize.php:229
+msgid "Resize path invalid (PNG)."
+msgstr ""
+
+#: ../framework/includes/resize.php:236
+msgid "Resize path invalid (JPG)."
+msgstr ""
+
+#: ../framework/includes/resize.php:247
+msgid "Failed to get $dest_file_name (resized image) info via @getimagesize"
+msgstr ""
+
+#: ../framework/includes/vc_extra_params.php:10
+#: ../framework/includes/vc_extra_params.php:244
+msgid "Responsive utilities"
+msgstr ""
+
+#: ../framework/includes/vc_extra_params.php:13
+#: ../framework/includes/vc_extra_params.php:247
+msgid "Hidden (Large devices)"
+msgstr ""
+
+#: ../framework/includes/vc_extra_params.php:21
+#: ../framework/includes/vc_extra_params.php:255
+msgid "Hidden (Medium devices)"
+msgstr ""
+
+#: ../framework/includes/vc_extra_params.php:29
+#: ../framework/includes/vc_extra_params.php:263
+msgid "Hidden (Small devices)"
+msgstr ""
+
+#: ../framework/includes/vc_extra_params.php:37
+#: ../framework/includes/vc_extra_params.php:271
+msgid "Hidden (Extra small devices)"
+msgstr ""
+
+#: ../framework/includes/vc_extra_params.php:39
+#: ../framework/includes/vc_extra_params.php:273
+msgid ""
+"For faster mobile-friendly development, use these utility classes for "
+"showing and hiding content by device via media query."
+msgstr ""
+
+#: ../framework/includes/vc_extra_params.php:44
+msgid "ID Name for Navigation"
+msgstr ""
+
+#: ../framework/includes/vc_extra_params.php:47
+msgid ""
+"If this row wraps the content of one of your sections, set an ID. You can "
+"then use it for navigation. Ex: work"
+msgstr ""
+
+#: ../framework/includes/vc_extra_params.php:52
+msgid "Row style"
+msgstr ""
+
+#: ../framework/includes/vc_extra_params.php:86
+msgid "Heading color"
+msgstr ""
+
+#: ../framework/includes/vc_extra_params.php:89
+msgid "Select color for head."
+msgstr ""
+
+#: ../framework/includes/vc_extra_params.php:94
+msgid "Link color"
+msgstr ""
+
+#: ../framework/includes/vc_extra_params.php:97
+msgid "Select color for link."
+msgstr ""
+
+#: ../framework/includes/vc_extra_params.php:102
+msgid "Link color hover"
+msgstr ""
+
+#: ../framework/includes/vc_extra_params.php:105
+msgid "Select color for link hover."
+msgstr ""
+
+#: ../framework/includes/vc_extra_params.php:111
+#: ../framework/includes/vc_extra_params.php:122
+#: ../framework/includes/vc_extra_shortcodes/eventscarousel.php:103
+#: ../framework/includes/vc_extra_shortcodes/portfoliocarousel.php:141
+#: ../framework/includes/vc_extra_shortcodes/postcarousel.php:143
+#: ../framework/tinymce/cs_shortcode_list.php:1391
+#: ../framework/tinymce/cs_shortcode_list.php:1563
+msgid "Same height"
+msgstr ""
+
+#: ../framework/includes/vc_extra_params.php:116
+#: ../framework/includes/vc_extra_params.php:127
+msgid "Set the same hight for all column in this row."
+msgstr ""
+
+#: ../framework/includes/vc_extra_params.php:133
+#: ../framework/includes/vc_extra_params.php:286
+msgid "Animation"
+msgstr ""
+
+#: ../framework/includes/vc_extra_params.php:151
+msgid "Enable parallax"
+msgstr ""
+
+#: ../framework/includes/vc_extra_params.php:167
+msgid "Background ratio"
+msgstr ""
+
+#: ../framework/includes/vc_extra_params.php:181
+msgid "Overlay Color"
+msgstr ""
+
+#: ../framework/includes/vc_extra_params.php:194
+msgid "Overlay Opacity"
+msgstr ""
+
+#: ../framework/includes/vc_extra_params.php:207
+msgid "Video background (mp4)"
+msgstr ""
+
+#: ../framework/includes/vc_extra_params.php:219
+msgid "Video background (ogv)"
+msgstr ""
+
+#: ../framework/includes/vc_extra_params.php:231
+msgid "Video background (webm)"
+msgstr ""
+
+#: ../framework/includes/vc_extra_params.php:280
+#: ../framework/includes/vc_extra_shortcodes/fancybox.php:186
+#: ../framework/includes/vc_extra_shortcodes/pricingtable.php:52
+#: ../framework/tinymce/cs_shortcode_list.php:657
+#: ../framework/tinymce/cs_shortcode_list.php:1664
+#: ../framework/widgets/tweets.php:208
+msgid "Yes"
+msgstr ""
+
+#: ../framework/includes/vc_extra_params.php:304
+msgid "Text Align"
+msgstr ""
+
+#: ../framework/includes/vc_extra_params.php:323
+msgid "Column Heading Style"
+msgstr ""
+
+#: ../framework/includes/vc_extra_params.php:339
+msgid "Add some styles to column"
+msgstr ""
+
+#: ../framework/includes/vc_extra_params.php:347
+#: ../framework/includes/vc_extra_params.php:492
+#: ../framework/includes/vc_extra_shortcodes/fancybox.php:142
+#: ../framework/includes/vc_extra_shortcodes/fullbox.php:18
+#: ../framework/includes/vc_extra_shortcodes/googlemapv3.php:17
+#: ../framework/includes/vc_extra_shortcodes/interactivebanner.php:17
+#: ../framework/includes/vc_extra_shortcodes/latesttwitter.php:18
+#: ../framework/includes/vc_extra_shortcodes/portfoliocarousel.php:17
+#: ../framework/includes/vc_extra_shortcodes/postcarousel.php:17
+#: ../framework/includes/vc_extra_shortcodes/pricingtable.php:17
+#: ../framework/includes/vc_extra_shortcodes/progressbar.php:19
+#: ../framework/includes/vc_extra_shortcodes/team.php:110
+#: ../framework/tinymce/cs_shortcode_list.php:689
+#: ../framework/tinymce/cs_shortcode_list.php:784
+msgid "Heading size"
+msgstr ""
+
+#: ../framework/includes/vc_extra_params.php:363
+#: ../framework/includes/vc_extra_shortcodes/fancybox.php:130
+#: ../framework/includes/vc_extra_shortcodes/fullbox.php:32
+#: ../framework/includes/vc_extra_shortcodes/googlemapv3.php:31
+#: ../framework/includes/vc_extra_shortcodes/latesttwitter.php:32
+#: ../framework/includes/vc_extra_shortcodes/piechart.php:32
+#: ../framework/includes/vc_extra_shortcodes/portfoliocarousel.php:32
+#: ../framework/includes/vc_extra_shortcodes/postcarousel.php:32
+#: ../framework/includes/vc_extra_shortcodes/pricingtable.php:31
+#: ../framework/includes/vc_extra_shortcodes/progressbar.php:33
+#: ../framework/tinymce/cs_shortcode_list.php:612
+msgid "Title Color"
+msgstr ""
+
+#: ../framework/includes/vc_extra_params.php:369
+msgid "Pie icon"
+msgstr ""
+
+#: ../framework/includes/vc_extra_params.php:377
+msgid "Icon Size"
+msgstr ""
+
+#: ../framework/includes/vc_extra_params.php:379
+msgid "Font size of icon"
+msgstr ""
+
+#: ../framework/includes/vc_extra_params.php:385
+msgid "Icon Color"
+msgstr ""
+
+#: ../framework/includes/vc_extra_params.php:394
+msgid "Bar color"
+msgstr ""
+
+#: ../framework/includes/vc_extra_params.php:397
+msgid "Select pie chart color."
+msgstr ""
+
+#: ../framework/includes/vc_extra_params.php:404
+#: ../framework/includes/vc_extra_params.php:527
+#: ../framework/includes/vc_extra_shortcodes/clientcarousel.php:17
+#: ../framework/includes/vc_extra_shortcodes/eventscarousel.php:23
+#: ../framework/includes/vc_extra_shortcodes/piechart.php:39
+#: ../framework/includes/vc_extra_shortcodes/portfoliocarousel.php:59
+#: ../framework/includes/vc_extra_shortcodes/postcarousel.php:59
+#: ../framework/includes/vc_extra_shortcodes/pricingtable.php:37
+#: ../framework/includes/vc_extra_shortcodes/progressbar.php:41
+#: ../framework/includes/vc_extra_shortcodes/recentpost.php:19
+#: ../framework/includes/vc_extra_shortcodes/shopcarousel.php:19
+#: ../framework/includes/vc_extra_shortcodes/team.php:17
+#: ../framework/includes/vc_extra_shortcodes/testimonial.php:24
+#: ../framework/megamenu/mega-menu.php:209
+#: ../framework/tinymce/cs_shortcode_list.php:15
+#: ../framework/tinymce/cs_shortcode_list.php:1090
+#: ../framework/tinymce/cs_shortcode_list.php:1319
+#: ../framework/tinymce/cs_shortcode_list.php:1490
+#: ../framework/tinymce/cs_shortcode_list.php:1657
+#: ../framework/tinymce/cs_shortcode_list.php:1743
+#: ../framework/tinymce/cs_shortcode_list.php:1849
+#: ../framework/tinymce/cs_shortcode_list.php:1989
+#: ../framework/tinymce/cs_shortcode_list.php:2198
+msgid "Description"
+msgstr ""
+
+#: ../framework/includes/vc_extra_params.php:412
+#: ../framework/includes/vc_extra_params.php:546
+#: ../framework/includes/vc_extra_shorcodes.php:56
+#: ../framework/includes/vc_extra_shortcodes/dropcap.php:17
+#: ../framework/includes/vc_extra_shortcodes/fullbox.php:84
+#: ../framework/includes/vc_extra_shortcodes/interactivebanner.php:105
+#: ../framework/includes/vc_extra_shortcodes/piechart.php:67
+#: ../framework/includes/vc_extra_shortcodes/portfolio.php:64
+#: ../framework/includes/vc_extra_shortcodes/shopcarousel.php:26
+#: ../framework/tinymce/cs_shortcode_list.php:472
+#: ../framework/tinymce/cs_shortcode_list.php:708
+#: ../framework/tinymce/cs_shortcode_list.php:868
+#: ../framework/tinymce/cs_shortcode_list.php:1111
+#: ../framework/tinymce/cs_shortcode_list.php:1204
+#: ../framework/tinymce/cs_shortcode_list.php:1855
+msgid "Style"
+msgstr ""
+
+#: ../framework/includes/vc_extra_params.php:418
+msgid "Select style for pie."
+msgstr ""
+
+#: ../framework/includes/vc_extra_params.php:423
+#: ../framework/includes/vc_extra_params.php:538
+#: ../framework/includes/vc_extra_shortcodes/dropcap.php:11
+#: ../framework/includes/vc_extra_shortcodes/progressbar.php:72
+#: ../framework/tinymce/cs_shortcode_list.php:466
+#: ../framework/tinymce/cs_shortcode_list.php:1764
+msgid "Icon"
+msgstr ""
+
+#: ../framework/includes/vc_extra_params.php:426
+#: ../framework/includes/vc_extra_params.php:541
+#: ../framework/includes/vc_extra_shortcodes/interactivebanner.php:33
+msgid ""
+"You can find icon class at here: <a target=\"_blank\" href=\"http://"
+"fontawesome.io/icons/\">\"http://fontawesome.io/icons/</a>. For example, fa "
+"fa-heart"
+msgstr ""
+
+#: ../framework/includes/vc_extra_params.php:437
+#: ../framework/includes/vc_extra_params.php:477
+#: ../framework/includes/vc_extra_params.php:485
+#: ../framework/includes/vc_extra_params.php:519
+msgid "Style Border Width"
+msgstr ""
+
+#: ../framework/includes/vc_extra_params.php:445
+msgid "Show Arrow"
+msgstr ""
+
+#: ../framework/includes/vc_extra_params.php:456
+msgid "Arrow Width"
+msgstr ""
+
+#: ../framework/includes/vc_extra_params.php:464
+msgid "Arrow Color"
+msgstr ""
+
+#: ../framework/includes/vc_extra_params.php:507
+#: ../framework/includes/vc_extra_shortcodes/counter.php:120
+#: ../framework/tinymce/cs_shortcode_list.php:212
+msgid "Text Transform"
+msgstr ""
+
+#: ../framework/includes/vc_extra_params.php:566
+msgid "Button Type"
+msgstr ""
+
+#: ../framework/includes/vc_extra_params.php:582
+#: ../framework/views/extrafields/category.php:13
+msgid "Default"
+msgstr ""
+
+#: ../framework/includes/vc_extra_params.php:583
+#: ../framework/includes/vc_extra_shorcodes.php:92
+#: ../framework/widgets/instagram.php:101
+msgid "Large"
+msgstr ""
+
+#: ../framework/includes/vc_extra_params.php:584
+msgid "Medium"
+msgstr ""
+
+#: ../framework/includes/vc_extra_params.php:585
+#: ../framework/includes/vc_extra_shorcodes.php:93
+msgid "Small"
+msgstr ""
+
+#: ../framework/includes/vc_extra_params.php:589
+#: ../framework/includes/vc_extra_shorcodes.php:159
+msgid "Size"
+msgstr ""
+
+#: ../framework/includes/vc_extra_params.php:592
+#: ../framework/includes/vc_extra_shorcodes.php:162
+msgid "Button size."
+msgstr ""
+
+#: ../framework/includes/vc_extra_params.php:597
+msgid "Button Block"
+msgstr ""
+
+#: ../framework/includes/vc_extra_params.php:602
+msgid "Yes, please."
+msgstr ""
+
+#: ../framework/includes/vc_extra_params.php:612
+msgid "Contact Style"
+msgstr ""
+
+#: ../framework/includes/vc_extra_shorcodes.php:19
+msgid "Tabs"
+msgstr ""
+
+#: ../framework/includes/vc_extra_shorcodes.php:24
+#: ../framework/includes/vc_extra_shorcodes.php:115
+#: ../framework/includes/vc_extra_shortcodes/dropcap.php:55
+#: ../framework/includes/vc_extra_shortcodes/fancybox.php:156
+#: ../framework/includes/vc_extra_shortcodes/fullbox.php:38
+#: ../framework/tinymce/cs_shortcode_list.php:492
+#: ../framework/tinymce/cs_shortcode_list.php:676
+#: ../framework/tinymce/cs_shortcode_list.php:771
+msgid "Content"
+msgstr ""
+
+#: ../framework/includes/vc_extra_shorcodes.php:25
+msgid "Tabbed content"
+msgstr ""
+
+#: ../framework/includes/vc_extra_shorcodes.php:29
+msgid "Widget title"
+msgstr ""
+
+#: ../framework/includes/vc_extra_shorcodes.php:31
+msgid ""
+"Enter text which will be used as widget title. Leave blank if no title is "
+"needed."
+msgstr ""
+
+#: ../framework/includes/vc_extra_shorcodes.php:35
+msgid "Auto rotate tabs"
+msgstr ""
+
+#: ../framework/includes/vc_extra_shorcodes.php:38
+msgid "Disable"
+msgstr ""
+
+#: ../framework/includes/vc_extra_shorcodes.php:45
+msgid "Auto rotate tabs each X seconds."
+msgstr ""
+
+#: ../framework/includes/vc_extra_shorcodes.php:49
+#: ../framework/includes/vc_extra_shorcodes.php:177
+#: ../framework/includes/vc_extra_shortcodes/clientcarousel.php:119
+#: ../framework/includes/vc_extra_shortcodes/eventscarousel.php:191
+#: ../framework/includes/vc_extra_shortcodes/logo.php:14
+#: ../framework/includes/vc_extra_shortcodes/menu.php:51
+#: ../framework/includes/vc_extra_shortcodes/portfoliocarousel.php:203
+#: ../framework/includes/vc_extra_shortcodes/postcarousel.php:205
+#: ../framework/includes/vc_extra_shortcodes/recentpost.php:150
+#: ../framework/includes/vc_extra_shortcodes/team.php:186
+#: ../framework/tinymce/cs_shortcode_list.php:105
+#: ../framework/tinymce/cs_shortcode_list.php:1470
+#: ../framework/tinymce/cs_shortcode_list.php:1642
+#: ../framework/tinymce/cs_shortcode_list.php:2130
+#: ../framework/tinymce/cs_shortcode_list.php:2177
+msgid "Extra class name"
+msgstr ""
+
+#: ../framework/includes/vc_extra_shorcodes.php:51
+#: ../framework/includes/vc_extra_shorcodes.php:179
+#: ../framework/includes/vc_extra_shortcodes/clientcarousel.php:121
+#: ../framework/includes/vc_extra_shortcodes/eventscarousel.php:193
+#: ../framework/includes/vc_extra_shortcodes/logo.php:16
+#: ../framework/includes/vc_extra_shortcodes/menu.php:53
+#: ../framework/includes/vc_extra_shortcodes/portfoliocarousel.php:205
+#: ../framework/includes/vc_extra_shortcodes/postcarousel.php:207
+#: ../framework/includes/vc_extra_shortcodes/recentpost.php:152
+#: ../framework/includes/vc_extra_shortcodes/team.php:188
+#: ../framework/tinymce/cs_shortcode_list.php:106
+#: ../framework/tinymce/cs_shortcode_list.php:1471
+#: ../framework/tinymce/cs_shortcode_list.php:1643
+#: ../framework/tinymce/cs_shortcode_list.php:2131
+#: ../framework/tinymce/cs_shortcode_list.php:2178
+msgid ""
+"If you wish to style particular content element differently, then use this "
+"field to add a class name and then refer to it in your css file."
+msgstr ""
+
+#: ../framework/includes/vc_extra_shorcodes.php:73
+msgid "Tab 1"
+msgstr ""
+
+#: ../framework/includes/vc_extra_shorcodes.php:74
+msgid "Tab 2"
+msgstr ""
+
+#: ../framework/includes/vc_extra_shorcodes.php:82
+msgid "Same window"
+msgstr ""
+
+#: ../framework/includes/vc_extra_shorcodes.php:83
+msgid "New window"
+msgstr ""
+
+#: ../framework/includes/vc_extra_shorcodes.php:86
+msgid "Button Default"
+msgstr ""
+
+#: ../framework/includes/vc_extra_shorcodes.php:87
+msgid "Button Primary"
+msgstr ""
+
+#: ../framework/includes/vc_extra_shorcodes.php:88
+msgid "Button Primary Alt White"
+msgstr ""
+
+#: ../framework/includes/vc_extra_shorcodes.php:91
+msgid "Regular size"
+msgstr ""
+
+#: ../framework/includes/vc_extra_shorcodes.php:94
+msgid "Mini"
+msgstr ""
+
+#: ../framework/includes/vc_extra_shorcodes.php:98
+msgid "CSS Animation"
+msgstr ""
+
+#: ../framework/includes/vc_extra_shorcodes.php:102
+#: ../framework/widgets/tweets.php:207
+msgid "No"
+msgstr ""
+
+#: ../framework/includes/vc_extra_shorcodes.php:103
+msgid "Top to bottom"
+msgstr ""
+
+#: ../framework/includes/vc_extra_shorcodes.php:104
+msgid "Bottom to top"
+msgstr ""
+
+#: ../framework/includes/vc_extra_shorcodes.php:105
+msgid "Left to right"
+msgstr ""
+
+#: ../framework/includes/vc_extra_shorcodes.php:106
+msgid "Right to left"
+msgstr ""
+
+#: ../framework/includes/vc_extra_shorcodes.php:107
+msgid "Appear from center"
+msgstr ""
+
+#: ../framework/includes/vc_extra_shorcodes.php:109
+msgid ""
+"Select type of animation if you want this element to be animated when it "
+"enters into the browsers viewport. Note: Works only in modern browsers."
+msgstr ""
+
+#: ../framework/includes/vc_extra_shorcodes.php:112
+msgid "Call to Action Button"
+msgstr ""
+
+#: ../framework/includes/vc_extra_shorcodes.php:116
+msgid "Catch visitors attention with CTA block"
+msgstr ""
+
+#: ../framework/includes/vc_extra_shorcodes.php:121
+#: ../framework/includes/vc_extra_shortcodes/counter.php:86
+#: ../framework/tinymce/cs_shortcode_list.php:181
+msgid "Text"
+msgstr ""
+
+#: ../framework/includes/vc_extra_shorcodes.php:123
+msgid "Click edit button to change this text."
+msgstr ""
+
+#: ../framework/includes/vc_extra_shorcodes.php:124
+msgid "Enter your content."
+msgstr ""
+
+#: ../framework/includes/vc_extra_shorcodes.php:128
+#: ../framework/includes/vc_extra_shorcodes.php:130
+#: ../vc_templates/vc_button.php:12 ../vc_templates/vc_cta_button.php:8
+msgid "Text on the button"
+msgstr ""
+
+#: ../framework/includes/vc_extra_shorcodes.php:131
+msgid "Text on the button."
+msgstr ""
+
+#: ../framework/includes/vc_extra_shorcodes.php:135
+msgid "URL (Link)"
+msgstr ""
+
+#: ../framework/includes/vc_extra_shorcodes.php:137
+msgid "Button link."
+msgstr ""
+
+#: ../framework/includes/vc_extra_shorcodes.php:141
+msgid "Target"
+msgstr ""
+
+#: ../framework/includes/vc_extra_shorcodes.php:151
+msgid "Button Type "
+msgstr ""
+
+#: ../framework/includes/vc_extra_shorcodes.php:154
+msgid "Button Type."
+msgstr ""
+
+#: ../framework/includes/vc_extra_shorcodes.php:166
+msgid "Button position"
+msgstr ""
+
+#: ../framework/includes/vc_extra_shorcodes.php:169
+msgid "Align right"
+msgstr ""
+
+#: ../framework/includes/vc_extra_shorcodes.php:170
+msgid "Align left"
+msgstr ""
+
+#: ../framework/includes/vc_extra_shorcodes.php:172
+msgid "Select button alignment."
+msgstr ""
+
+#: ../framework/includes/vc_extra_shortcodes/clientcarousel.php:6
+#: ../framework/includes/vc_extra_shortcodes/counter.php:6
+#: ../framework/includes/vc_extra_shortcodes/coverbox.php:7
+#: ../framework/includes/vc_extra_shortcodes/custombtn.php:10
+#: ../framework/includes/vc_extra_shortcodes/dropcap.php:6
+#: ../framework/includes/vc_extra_shortcodes/eventscarousel.php:7
+#: ../framework/includes/vc_extra_shortcodes/fancybox.php:6
+#: ../framework/includes/vc_extra_shortcodes/fullbox.php:6
+#: ../framework/includes/vc_extra_shortcodes/googlemapv3.php:6
+#: ../framework/includes/vc_extra_shortcodes/interactivebanner.php:6
+#: ../framework/includes/vc_extra_shortcodes/latesttwitter.php:6
+#: ../framework/includes/vc_extra_shortcodes/logo.php:9
+#: ../framework/includes/vc_extra_shortcodes/menu.php:17
+#: ../framework/includes/vc_extra_shortcodes/piechart.php:6
+#: ../framework/includes/vc_extra_shortcodes/portfolio.php:6
+#: ../framework/includes/vc_extra_shortcodes/portfoliocarousel.php:6
+#: ../framework/includes/vc_extra_shortcodes/postcarousel.php:6
+#: ../framework/includes/vc_extra_shortcodes/pricingtable.php:6
+#: ../framework/includes/vc_extra_shortcodes/progressbar.php:6
+#: ../framework/includes/vc_extra_shortcodes/recentpost.php:9
+#: ../framework/includes/vc_extra_shortcodes/shopcarousel.php:7
+#: ../framework/includes/vc_extra_shortcodes/team.php:6
+#: ../framework/includes/vc_extra_shortcodes/testimonial.php:6
+msgid "CS Hero"
+msgstr ""
+
+#: ../framework/includes/vc_extra_shortcodes/clientcarousel.php:7
+msgid "Carousel Client"
+msgstr ""
+
+#: ../framework/includes/vc_extra_shortcodes/clientcarousel.php:11
+#: ../framework/includes/vc_extra_shortcodes/eventscarousel.php:11
+#: ../framework/includes/vc_extra_shortcodes/fancybox.php:115
+#: ../framework/includes/vc_extra_shortcodes/fullbox.php:11
+#: ../framework/includes/vc_extra_shortcodes/googlemapv3.php:11
+#: ../framework/includes/vc_extra_shortcodes/interactivebanner.php:11
+#: ../framework/includes/vc_extra_shortcodes/latesttwitter.php:12
+#: ../framework/includes/vc_extra_shortcodes/menu.php:23
+#: ../framework/includes/vc_extra_shortcodes/piechart.php:12
+#: ../framework/includes/vc_extra_shortcodes/portfoliocarousel.php:11
+#: ../framework/includes/vc_extra_shortcodes/postcarousel.php:11
+#: ../framework/includes/vc_extra_shortcodes/pricingtable.php:11
+#: ../framework/includes/vc_extra_shortcodes/progressbar.php:13
+#: ../framework/includes/vc_extra_shortcodes/recentpost.php:13
+#: ../framework/includes/vc_extra_shortcodes/shopcarousel.php:12
+#: ../framework/includes/vc_extra_shortcodes/team.php:11
+#: ../framework/includes/vc_extra_shortcodes/testimonial.php:18
+#: ../framework/tinymce/cs_shortcode_list.php:9
+#: ../framework/tinymce/cs_shortcode_list.php:598
+#: ../framework/tinymce/cs_shortcode_list.php:683
+#: ../framework/tinymce/cs_shortcode_list.php:778
+#: ../framework/tinymce/cs_shortcode_list.php:908
+#: ../framework/tinymce/cs_shortcode_list.php:1071
+#: ../framework/tinymce/cs_shortcode_list.php:1309
+#: ../framework/tinymce/cs_shortcode_list.php:1480
+#: ../framework/tinymce/cs_shortcode_list.php:1652
+#: ../framework/tinymce/cs_shortcode_list.php:1736
+#: ../framework/tinymce/cs_shortcode_list.php:1843
+#: ../framework/tinymce/cs_shortcode_list.php:1984
+#: ../framework/tinymce/cs_shortcode_list.php:2153
+#: ../framework/tinymce/cs_shortcode_list.php:2193
+#: ../framework/widgets/instagram.php:94
+msgid "Title"
+msgstr ""
+
+#: ../framework/includes/vc_extra_shortcodes/clientcarousel.php:24
+#: ../framework/includes/vc_extra_shortcodes/team.php:24
+#: ../framework/tinymce/cs_shortcode_list.php:21
+msgid "Category"
+msgstr ""
+
+#: ../framework/includes/vc_extra_shortcodes/clientcarousel.php:31
+#: ../framework/includes/vc_extra_shortcodes/eventscarousel.php:94
+#: ../framework/includes/vc_extra_shortcodes/portfoliocarousel.php:132
+#: ../framework/includes/vc_extra_shortcodes/postcarousel.php:134
+#: ../framework/includes/vc_extra_shortcodes/shopcarousel.php:74
+#: ../framework/includes/vc_extra_shortcodes/team.php:31
+#: ../framework/tinymce/cs_shortcode_list.php:27
+#: ../framework/tinymce/cs_shortcode_list.php:1383
+#: ../framework/tinymce/cs_shortcode_list.php:1555
+#: ../framework/tinymce/cs_shortcode_list.php:1897
+msgid "Auto scroll"
+msgstr ""
+
+#: ../framework/includes/vc_extra_shortcodes/clientcarousel.php:34
+#: ../framework/includes/vc_extra_shortcodes/clientcarousel.php:43
+#: ../framework/includes/vc_extra_shortcodes/clientcarousel.php:52
+#: ../framework/includes/vc_extra_shortcodes/eventscarousel.php:51
+#: ../framework/includes/vc_extra_shortcodes/eventscarousel.php:97
+#: ../framework/includes/vc_extra_shortcodes/eventscarousel.php:106
+#: ../framework/includes/vc_extra_shortcodes/eventscarousel.php:115
+#: ../framework/includes/vc_extra_shortcodes/eventscarousel.php:124
+#: ../framework/includes/vc_extra_shortcodes/eventscarousel.php:133
+#: ../framework/includes/vc_extra_shortcodes/eventscarousel.php:142
+#: ../framework/includes/vc_extra_shortcodes/fancybox.php:103
+#: ../framework/includes/vc_extra_shortcodes/fancybox.php:124
+#: ../framework/includes/vc_extra_shortcodes/fullbox.php:66
+#: ../framework/includes/vc_extra_shortcodes/googlemapv3.php:61
+#: ../framework/includes/vc_extra_shortcodes/googlemapv3.php:168
+#: ../framework/includes/vc_extra_shortcodes/googlemapv3.php:177
+#: ../framework/includes/vc_extra_shortcodes/googlemapv3.php:186
+#: ../framework/includes/vc_extra_shortcodes/googlemapv3.php:195
+#: ../framework/includes/vc_extra_shortcodes/googlemapv3.php:204
+#: ../framework/includes/vc_extra_shortcodes/googlemapv3.php:213
+#: ../framework/includes/vc_extra_shortcodes/googlemapv3.php:222
+#: ../framework/includes/vc_extra_shortcodes/interactivebanner.php:74
+#: ../framework/includes/vc_extra_shortcodes/portfolio.php:45
+#: ../framework/includes/vc_extra_shortcodes/portfolio.php:78
+#: ../framework/includes/vc_extra_shortcodes/portfolio.php:87
+#: ../framework/includes/vc_extra_shortcodes/portfolio.php:96
+#: ../framework/includes/vc_extra_shortcodes/portfolio.php:105
+#: ../framework/includes/vc_extra_shortcodes/portfolio.php:135
+#: ../framework/includes/vc_extra_shortcodes/portfoliocarousel.php:89
+#: ../framework/includes/vc_extra_shortcodes/portfoliocarousel.php:135
+#: ../framework/includes/vc_extra_shortcodes/portfoliocarousel.php:144
+#: ../framework/includes/vc_extra_shortcodes/portfoliocarousel.php:153
+#: ../framework/includes/vc_extra_shortcodes/postcarousel.php:91
+#: ../framework/includes/vc_extra_shortcodes/postcarousel.php:137
+#: ../framework/includes/vc_extra_shortcodes/postcarousel.php:146
+#: ../framework/includes/vc_extra_shortcodes/postcarousel.php:155
+#: ../framework/includes/vc_extra_shortcodes/recentpost.php:34
+#: ../framework/includes/vc_extra_shortcodes/recentpost.php:48
+#: ../framework/includes/vc_extra_shortcodes/recentpost.php:55
+#: ../framework/includes/vc_extra_shortcodes/recentpost.php:86
+#: ../framework/includes/vc_extra_shortcodes/shopcarousel.php:77
+#: ../framework/includes/vc_extra_shortcodes/shopcarousel.php:86
+#: ../framework/includes/vc_extra_shortcodes/shopcarousel.php:95
+#: ../framework/includes/vc_extra_shortcodes/shopcarousel.php:104
+#: ../framework/includes/vc_extra_shortcodes/shopcarousel.php:113
+#: ../framework/includes/vc_extra_shortcodes/shopcarousel.php:122
+#: ../framework/includes/vc_extra_shortcodes/team.php:34
+#: ../framework/includes/vc_extra_shortcodes/team.php:43
+#: ../framework/includes/vc_extra_shortcodes/team.php:104
+#: ../framework/includes/vc_extra_shortcodes/team.php:127
+#: ../framework/includes/vc_extra_shortcodes/team.php:136
+#: ../framework/includes/vc_extra_shortcodes/team.php:145
+#: ../framework/includes/vc_extra_shortcodes/testimonial.php:58
+#: ../framework/includes/vc_extra_shortcodes/testimonial.php:67
+#: ../framework/includes/vc_extra_shortcodes/testimonial.php:76
+#: ../framework/includes/vc_extra_shortcodes/testimonial.php:85
+#: ../framework/tinymce/cs_shortcode_list.php:29
+#: ../framework/tinymce/cs_shortcode_list.php:37
+#: ../framework/tinymce/cs_shortcode_list.php:45
+#: ../framework/tinymce/cs_shortcode_list.php:586
+#: ../framework/tinymce/cs_shortcode_list.php:606
+#: ../framework/tinymce/cs_shortcode_list.php:839
+#: ../framework/tinymce/cs_shortcode_list.php:1178
+#: ../framework/tinymce/cs_shortcode_list.php:1216
+#: ../framework/tinymce/cs_shortcode_list.php:1224
+#: ../framework/tinymce/cs_shortcode_list.php:1232
+#: ../framework/tinymce/cs_shortcode_list.php:1240
+#: ../framework/tinymce/cs_shortcode_list.php:1345
+#: ../framework/tinymce/cs_shortcode_list.php:1385
+#: ../framework/tinymce/cs_shortcode_list.php:1393
+#: ../framework/tinymce/cs_shortcode_list.php:1401
+#: ../framework/tinymce/cs_shortcode_list.php:1409
+#: ../framework/tinymce/cs_shortcode_list.php:1417
+#: ../framework/tinymce/cs_shortcode_list.php:1425
+#: ../framework/tinymce/cs_shortcode_list.php:1517
+#: ../framework/tinymce/cs_shortcode_list.php:1557
+#: ../framework/tinymce/cs_shortcode_list.php:1565
+#: ../framework/tinymce/cs_shortcode_list.php:1573
+#: ../framework/tinymce/cs_shortcode_list.php:1581
+#: ../framework/tinymce/cs_shortcode_list.php:1589
+#: ../framework/tinymce/cs_shortcode_list.php:1597
+#: ../framework/tinymce/cs_shortcode_list.php:1688
+#: ../framework/tinymce/cs_shortcode_list.php:1696
+#: ../framework/tinymce/cs_shortcode_list.php:1899
+#: ../framework/tinymce/cs_shortcode_list.php:1907
+#: ../framework/tinymce/cs_shortcode_list.php:1915
+#: ../framework/tinymce/cs_shortcode_list.php:1923
+#: ../framework/tinymce/cs_shortcode_list.php:1931
+#: ../framework/tinymce/cs_shortcode_list.php:1939
+#: ../framework/tinymce/cs_shortcode_list.php:2014
+#: ../framework/tinymce/cs_shortcode_list.php:2022
+#: ../framework/tinymce/cs_shortcode_list.php:2030
+#: ../framework/tinymce/cs_shortcode_list.php:2038
+#: ../framework/tinymce/cs_shortcode_list.php:2223
+#: ../framework/tinymce/cs_shortcode_list.php:2231
+#: ../framework/tinymce/cs_shortcode_list.php:2239
+msgid "Yes, please"
+msgstr ""
+
+#: ../framework/includes/vc_extra_shortcodes/clientcarousel.php:36
+#: ../framework/includes/vc_extra_shortcodes/eventscarousel.php:99
+#: ../framework/includes/vc_extra_shortcodes/portfoliocarousel.php:137
+#: ../framework/includes/vc_extra_shortcodes/postcarousel.php:139
+#: ../framework/includes/vc_extra_shortcodes/shopcarousel.php:79
+#: ../framework/includes/vc_extra_shortcodes/team.php:36
+#: ../framework/tinymce/cs_shortcode_list.php:31
+#: ../framework/tinymce/cs_shortcode_list.php:1387
+#: ../framework/tinymce/cs_shortcode_list.php:1559
+#: ../framework/tinymce/cs_shortcode_list.php:1901
+msgid "Auto scroll."
+msgstr ""
+
+#: ../framework/includes/vc_extra_shortcodes/clientcarousel.php:40
+#: ../framework/includes/vc_extra_shortcodes/eventscarousel.php:112
+#: ../framework/includes/vc_extra_shortcodes/portfoliocarousel.php:150
+#: ../framework/includes/vc_extra_shortcodes/postcarousel.php:152
+#: ../framework/includes/vc_extra_shortcodes/team.php:40
+#: ../framework/includes/vc_extra_shortcodes/testimonial.php:55
+#: ../framework/tinymce/cs_shortcode_list.php:35
+#: ../framework/tinymce/cs_shortcode_list.php:1399
+#: ../framework/tinymce/cs_shortcode_list.php:1571
+msgid "Show navigation"
+msgstr ""
+
+#: ../framework/includes/vc_extra_shortcodes/clientcarousel.php:45
+#: ../framework/includes/vc_extra_shortcodes/team.php:45
+#: ../framework/includes/vc_extra_shortcodes/testimonial.php:60
+#: ../framework/tinymce/cs_shortcode_list.php:39
+msgid "Show or hide navigation on your carousel client."
+msgstr ""
+
+#: ../framework/includes/vc_extra_shortcodes/clientcarousel.php:49
+#: ../framework/tinymce/cs_shortcode_list.php:43
+msgid "Show Link"
+msgstr ""
+
+#: ../framework/includes/vc_extra_shortcodes/clientcarousel.php:54
+#: ../framework/tinymce/cs_shortcode_list.php:47
+msgid "Show or hide link to post on your carousel client."
+msgstr ""
+
+#: ../framework/includes/vc_extra_shortcodes/clientcarousel.php:58
+#: ../framework/includes/vc_extra_shortcodes/eventscarousel.php:69
+#: ../framework/includes/vc_extra_shortcodes/portfoliocarousel.php:107
+#: ../framework/includes/vc_extra_shortcodes/postcarousel.php:109
+#: ../framework/includes/vc_extra_shortcodes/shopcarousel.php:43
+#: ../framework/includes/vc_extra_shortcodes/team.php:49
+#: ../framework/tinymce/cs_shortcode_list.php:51
+#: ../framework/tinymce/cs_shortcode_list.php:1361
+#: ../framework/tinymce/cs_shortcode_list.php:1533
+#: ../framework/tinymce/cs_shortcode_list.php:1870
+msgid "Width item"
+msgstr ""
+
+#: ../framework/includes/vc_extra_shortcodes/clientcarousel.php:60
+#: ../framework/includes/vc_extra_shortcodes/eventscarousel.php:71
+#: ../framework/includes/vc_extra_shortcodes/portfoliocarousel.php:109
+#: ../framework/includes/vc_extra_shortcodes/postcarousel.php:111
+#: ../framework/includes/vc_extra_shortcodes/shopcarousel.php:45
+#: ../framework/includes/vc_extra_shortcodes/team.php:51
+#: ../framework/tinymce/cs_shortcode_list.php:52
+#: ../framework/tinymce/cs_shortcode_list.php:1362
+#: ../framework/tinymce/cs_shortcode_list.php:1534
+#: ../framework/tinymce/cs_shortcode_list.php:1871
+msgid "Enter the width of item. Default: 150."
+msgstr ""
+
+#: ../framework/includes/vc_extra_shortcodes/clientcarousel.php:64
+#: ../framework/includes/vc_extra_shortcodes/eventscarousel.php:75
+#: ../framework/includes/vc_extra_shortcodes/portfoliocarousel.php:113
+#: ../framework/includes/vc_extra_shortcodes/postcarousel.php:115
+#: ../framework/includes/vc_extra_shortcodes/shopcarousel.php:49
+#: ../framework/includes/vc_extra_shortcodes/team.php:55
+#: ../framework/includes/vc_extra_shortcodes/testimonial.php:43
+#: ../framework/tinymce/cs_shortcode_list.php:56
+#: ../framework/tinymce/cs_shortcode_list.php:1366
+#: ../framework/tinymce/cs_shortcode_list.php:1538
+#: ../framework/tinymce/cs_shortcode_list.php:1875
+msgid "Margin item"
+msgstr ""
+
+#: ../framework/includes/vc_extra_shortcodes/clientcarousel.php:66
+#: ../framework/includes/vc_extra_shortcodes/eventscarousel.php:77
+#: ../framework/includes/vc_extra_shortcodes/portfoliocarousel.php:115
+#: ../framework/includes/vc_extra_shortcodes/postcarousel.php:117
+#: ../framework/includes/vc_extra_shortcodes/shopcarousel.php:51
+#: ../framework/includes/vc_extra_shortcodes/team.php:57
+#: ../framework/includes/vc_extra_shortcodes/testimonial.php:45
+#: ../framework/tinymce/cs_shortcode_list.php:57
+#: ../framework/tinymce/cs_shortcode_list.php:1367
+#: ../framework/tinymce/cs_shortcode_list.php:1539
+#: ../framework/tinymce/cs_shortcode_list.php:1876
+msgid "Enter the margin of item. Default: 20."
+msgstr ""
+
+#: ../framework/includes/vc_extra_shortcodes/clientcarousel.php:70
+#: ../framework/includes/vc_extra_shortcodes/shopcarousel.php:55
+#: ../framework/includes/vc_extra_shortcodes/team.php:61
+#: ../framework/includes/vc_extra_shortcodes/testimonial.php:49
+#: ../framework/tinymce/cs_shortcode_list.php:61
+#: ../framework/tinymce/cs_shortcode_list.php:1880
+msgid "Speed"
+msgstr ""
+
+#: ../framework/includes/vc_extra_shortcodes/clientcarousel.php:72
+#: ../framework/includes/vc_extra_shortcodes/shopcarousel.php:57
+#: ../framework/includes/vc_extra_shortcodes/team.php:63
+#: ../framework/includes/vc_extra_shortcodes/testimonial.php:51
+#: ../framework/tinymce/cs_shortcode_list.php:62
+#: ../framework/tinymce/cs_shortcode_list.php:1881
+msgid "Enter the speed of carousel. Default: 500."
+msgstr ""
+
+#: ../framework/includes/vc_extra_shortcodes/clientcarousel.php:77
+#: ../framework/includes/vc_extra_shortcodes/eventscarousel.php:82
+#: ../framework/includes/vc_extra_shortcodes/portfoliocarousel.php:120
+#: ../framework/includes/vc_extra_shortcodes/postcarousel.php:122
+#: ../framework/includes/vc_extra_shortcodes/shopcarousel.php:62
+#: ../framework/includes/vc_extra_shortcodes/team.php:68
+#: ../framework/tinymce/cs_shortcode_list.php:67
+#: ../framework/tinymce/cs_shortcode_list.php:1372
+#: ../framework/tinymce/cs_shortcode_list.php:1544
+#: ../framework/tinymce/cs_shortcode_list.php:1886
+msgid "Rows"
+msgstr ""
+
+#: ../framework/includes/vc_extra_shortcodes/clientcarousel.php:89
+#: ../framework/includes/vc_extra_shortcodes/eventscarousel.php:162
+#: ../framework/includes/vc_extra_shortcodes/portfolio.php:111
+#: ../framework/includes/vc_extra_shortcodes/portfoliocarousel.php:173
+#: ../framework/includes/vc_extra_shortcodes/postcarousel.php:175
+#: ../framework/includes/vc_extra_shortcodes/recentpost.php:117
+#: ../framework/includes/vc_extra_shortcodes/shopcarousel.php:128
+#: ../framework/includes/vc_extra_shortcodes/team.php:80
+#: ../framework/tinymce/cs_shortcode_list.php:78
+#: ../framework/tinymce/cs_shortcode_list.php:1246
+#: ../framework/tinymce/cs_shortcode_list.php:1443
+#: ../framework/tinymce/cs_shortcode_list.php:1615
+#: ../framework/tinymce/cs_shortcode_list.php:1945
+msgid "Number of posts to show per page"
+msgstr ""
+
+#: ../framework/includes/vc_extra_shortcodes/clientcarousel.php:92
+#: ../framework/includes/vc_extra_shortcodes/eventscarousel.php:165
+#: ../framework/includes/vc_extra_shortcodes/portfolio.php:114
+#: ../framework/includes/vc_extra_shortcodes/portfoliocarousel.php:176
+#: ../framework/includes/vc_extra_shortcodes/postcarousel.php:178
+#: ../framework/includes/vc_extra_shortcodes/recentpost.php:120
+#: ../framework/includes/vc_extra_shortcodes/shopcarousel.php:131
+#: ../framework/includes/vc_extra_shortcodes/team.php:83
+#: ../framework/tinymce/cs_shortcode_list.php:80
+#: ../framework/tinymce/cs_shortcode_list.php:1248
+#: ../framework/tinymce/cs_shortcode_list.php:1445
+#: ../framework/tinymce/cs_shortcode_list.php:1617
+#: ../framework/tinymce/cs_shortcode_list.php:1947
+msgid ""
+"The number of posts to display on each page. Set to \"-1\" for display all "
+"posts on the page."
+msgstr ""
+
+#: ../framework/includes/vc_extra_shortcodes/clientcarousel.php:96
+#: ../framework/includes/vc_extra_shortcodes/eventscarousel.php:169
+#: ../framework/includes/vc_extra_shortcodes/portfolio.php:141
+#: ../framework/includes/vc_extra_shortcodes/portfoliocarousel.php:180
+#: ../framework/includes/vc_extra_shortcodes/postcarousel.php:182
+#: ../framework/includes/vc_extra_shortcodes/pricingtable.php:76
+#: ../framework/includes/vc_extra_shortcodes/recentpost.php:124
+#: ../framework/includes/vc_extra_shortcodes/shopcarousel.php:135
+#: ../framework/includes/vc_extra_shortcodes/team.php:151
+#: ../framework/includes/vc_extra_shortcodes/testimonial.php:105
+#: ../framework/tinymce/cs_shortcode_list.php:84
+#: ../framework/tinymce/cs_shortcode_list.php:1283
+#: ../framework/tinymce/cs_shortcode_list.php:1449
+#: ../framework/tinymce/cs_shortcode_list.php:1621
+#: ../framework/tinymce/cs_shortcode_list.php:1702
+#: ../framework/tinymce/cs_shortcode_list.php:1951
+#: ../framework/tinymce/cs_shortcode_list.php:2056
+#: ../framework/tinymce/cs_shortcode_list.php:2257
+msgid "Order by"
+msgstr ""
+
+#: ../framework/includes/vc_extra_shortcodes/clientcarousel.php:104
+#: ../framework/includes/vc_extra_shortcodes/eventscarousel.php:177
+#: ../framework/includes/vc_extra_shortcodes/portfolio.php:149
+#: ../framework/includes/vc_extra_shortcodes/portfoliocarousel.php:188
+#: ../framework/includes/vc_extra_shortcodes/postcarousel.php:190
+#: ../framework/includes/vc_extra_shortcodes/pricingtable.php:84
+#: ../framework/includes/vc_extra_shortcodes/shopcarousel.php:143
+#: ../framework/includes/vc_extra_shortcodes/team.php:159
+#: ../framework/includes/vc_extra_shortcodes/testimonial.php:113
+#: ../framework/tinymce/cs_shortcode_list.php:91
+#: ../framework/tinymce/cs_shortcode_list.php:1290
+#: ../framework/tinymce/cs_shortcode_list.php:1456
+#: ../framework/tinymce/cs_shortcode_list.php:1628
+#: ../framework/tinymce/cs_shortcode_list.php:1709
+#: ../framework/tinymce/cs_shortcode_list.php:1958
+#: ../framework/tinymce/cs_shortcode_list.php:2063
+#: ../framework/tinymce/cs_shortcode_list.php:2264
+msgid "Order by (\"none\", \"title\", \"date\", \"ID\")."
+msgstr ""
+
+#: ../framework/includes/vc_extra_shortcodes/clientcarousel.php:108
+#: ../framework/includes/vc_extra_shortcodes/eventscarousel.php:181
+#: ../framework/includes/vc_extra_shortcodes/portfolio.php:153
+#: ../framework/includes/vc_extra_shortcodes/portfoliocarousel.php:192
+#: ../framework/includes/vc_extra_shortcodes/postcarousel.php:194
+#: ../framework/includes/vc_extra_shortcodes/pricingtable.php:88
+#: ../framework/includes/vc_extra_shortcodes/recentpost.php:131
+#: ../framework/includes/vc_extra_shortcodes/shopcarousel.php:147
+#: ../framework/includes/vc_extra_shortcodes/team.php:163
+#: ../framework/includes/vc_extra_shortcodes/testimonial.php:117
+#: ../framework/tinymce/cs_shortcode_list.php:95
+#: ../framework/tinymce/cs_shortcode_list.php:1294
+#: ../framework/tinymce/cs_shortcode_list.php:1460
+#: ../framework/tinymce/cs_shortcode_list.php:1632
+#: ../framework/tinymce/cs_shortcode_list.php:1713
+#: ../framework/tinymce/cs_shortcode_list.php:1962
+#: ../framework/tinymce/cs_shortcode_list.php:2067
+#: ../framework/tinymce/cs_shortcode_list.php:2268
+msgid "Order"
+msgstr ""
+
+#: ../framework/includes/vc_extra_shortcodes/clientcarousel.php:115
+#: ../framework/includes/vc_extra_shortcodes/eventscarousel.php:187
+#: ../framework/includes/vc_extra_shortcodes/portfolio.php:160
+#: ../framework/includes/vc_extra_shortcodes/portfoliocarousel.php:199
+#: ../framework/includes/vc_extra_shortcodes/postcarousel.php:201
+#: ../framework/includes/vc_extra_shortcodes/pricingtable.php:95
+#: ../framework/includes/vc_extra_shortcodes/team.php:170
+#: ../framework/includes/vc_extra_shortcodes/testimonial.php:124
+#: ../framework/tinymce/cs_shortcode_list.php:101
+#: ../framework/tinymce/cs_shortcode_list.php:1300
+#: ../framework/tinymce/cs_shortcode_list.php:1466
+#: ../framework/tinymce/cs_shortcode_list.php:1638
+#: ../framework/tinymce/cs_shortcode_list.php:1719
+#: ../framework/tinymce/cs_shortcode_list.php:2073
+#: ../framework/tinymce/cs_shortcode_list.php:2274
+msgid "Order (\"None\", \"Asc\", \"Desc\")."
+msgstr ""
+
+#: ../framework/includes/vc_extra_shortcodes/counter.php:7
+msgid "Zero Counter & Random Counter"
+msgstr ""
+
+#: ../framework/includes/vc_extra_shortcodes/counter.php:23
+#: ../framework/tinymce/cs_shortcode_list.php:126
+msgid "Box"
+msgstr ""
+
+#: ../framework/includes/vc_extra_shortcodes/counter.php:34
+#: ../framework/tinymce/cs_shortcode_list.php:136
+msgid "Position"
+msgstr ""
+
+#: ../framework/includes/vc_extra_shortcodes/counter.php:45
+#: ../framework/tinymce/cs_shortcode_list.php:146
+msgid "Digit"
+msgstr ""
+
+#: ../framework/includes/vc_extra_shortcodes/counter.php:52
+#: ../framework/tinymce/cs_shortcode_list.php:152
+msgid "Font size (px)"
+msgstr ""
+
+#: ../framework/includes/vc_extra_shortcodes/counter.php:60
+#: ../framework/tinymce/cs_shortcode_list.php:159
+msgid "Font weight"
+msgstr ""
+
+#: ../framework/includes/vc_extra_shortcodes/counter.php:79
+#: ../framework/tinymce/cs_shortcode_list.php:176
+msgid "Font color"
+msgstr ""
+
+#: ../framework/includes/vc_extra_shortcodes/counter.php:93
+#: ../framework/tinymce/cs_shortcode_list.php:187
+msgid "Text Size (px)"
+msgstr ""
+
+#: ../framework/includes/vc_extra_shortcodes/counter.php:101
+#: ../framework/tinymce/cs_shortcode_list.php:194
+msgid "Text Font Weight"
+msgstr ""
+
+#: ../framework/includes/vc_extra_shortcodes/counter.php:134
+#: ../framework/tinymce/cs_shortcode_list.php:224
+msgid "Text color"
+msgstr ""
+
+#: ../framework/includes/vc_extra_shortcodes/counter.php:142
+#: ../framework/tinymce/cs_shortcode_list.php:230
+msgid "Separator"
+msgstr ""
+
+#: ../framework/includes/vc_extra_shortcodes/counter.php:153
+#: ../framework/tinymce/cs_shortcode_list.php:239
+msgid "Separator color"
+msgstr ""
+
+#: ../framework/includes/vc_extra_shortcodes/counter.php:161
+#: ../framework/tinymce/cs_shortcode_list.php:245
+msgid "Separator Border Style"
+msgstr ""
+
+#: ../framework/includes/vc_extra_shortcodes/coverbox.php:8
+msgid "Three Box"
+msgstr ""
+
+#: ../framework/includes/vc_extra_shortcodes/coverbox.php:14
+msgid "Active element"
+msgstr ""
+
+#: ../framework/includes/vc_extra_shortcodes/coverbox.php:22
+msgid "Title tag"
+msgstr ""
+
+#: ../framework/includes/vc_extra_shortcodes/coverbox.php:32
+msgid "Choose with heading tag to display for titles"
+msgstr ""
+
+#: ../framework/includes/vc_extra_shortcodes/coverbox.php:38
+msgid "Image 1"
+msgstr ""
+
+#: ../framework/includes/vc_extra_shortcodes/coverbox.php:45
+msgid "Title 1"
+msgstr ""
+
+#: ../framework/includes/vc_extra_shortcodes/coverbox.php:53
+msgid "Title Color 1"
+msgstr ""
+
+#: ../framework/includes/vc_extra_shortcodes/coverbox.php:61
+msgid "Text 1"
+msgstr ""
+
+#: ../framework/includes/vc_extra_shortcodes/coverbox.php:69
+msgid "Text Color 1"
+msgstr ""
+
+#: ../framework/includes/vc_extra_shortcodes/coverbox.php:77
+msgid "Link 1"
+msgstr ""
+
+#: ../framework/includes/vc_extra_shortcodes/coverbox.php:85
+msgid "Link label 1"
+msgstr ""
+
+#: ../framework/includes/vc_extra_shortcodes/coverbox.php:93
+msgid "Target 1"
+msgstr ""
+
+#: ../framework/includes/vc_extra_shortcodes/coverbox.php:107
+msgid "Image 2"
+msgstr ""
+
+#: ../framework/includes/vc_extra_shortcodes/coverbox.php:114
+msgid "Title 2"
+msgstr ""
+
+#: ../framework/includes/vc_extra_shortcodes/coverbox.php:122
+msgid "Title Color 2"
+msgstr ""
+
+#: ../framework/includes/vc_extra_shortcodes/coverbox.php:130
+msgid "Text 2"
+msgstr ""
+
+#: ../framework/includes/vc_extra_shortcodes/coverbox.php:138
+msgid "Text Color 2"
+msgstr ""
+
+#: ../framework/includes/vc_extra_shortcodes/coverbox.php:146
+msgid "Link 2"
+msgstr ""
+
+#: ../framework/includes/vc_extra_shortcodes/coverbox.php:154
+msgid "Link label 2"
+msgstr ""
+
+#: ../framework/includes/vc_extra_shortcodes/coverbox.php:162
+msgid "Target 2"
+msgstr ""
+
+#: ../framework/includes/vc_extra_shortcodes/coverbox.php:176
+msgid "Image 3"
+msgstr ""
+
+#: ../framework/includes/vc_extra_shortcodes/coverbox.php:183
+msgid "Title 3"
+msgstr ""
+
+#: ../framework/includes/vc_extra_shortcodes/coverbox.php:191
+msgid "Title Color 3"
+msgstr ""
+
+#: ../framework/includes/vc_extra_shortcodes/coverbox.php:199
+msgid "Text 3"
+msgstr ""
+
+#: ../framework/includes/vc_extra_shortcodes/coverbox.php:207
+msgid "Text Color 3"
+msgstr ""
+
+#: ../framework/includes/vc_extra_shortcodes/coverbox.php:215
+msgid "Link 3"
+msgstr ""
+
+#: ../framework/includes/vc_extra_shortcodes/coverbox.php:223
+msgid "Link label 3"
+msgstr ""
+
+#: ../framework/includes/vc_extra_shortcodes/coverbox.php:231
+msgid "Target 3"
+msgstr ""
+
+#: ../framework/includes/vc_extra_shortcodes/coverbox.php:245
+msgid "Read More Button Style"
+msgstr ""
+
+#: ../framework/includes/vc_extra_shortcodes/custombtn.php:7
+msgid "Custom Button"
+msgstr ""
+
+#: ../framework/includes/vc_extra_shortcodes/custombtn.php:16
+msgid "Element Selector"
+msgstr ""
+
+#: ../framework/includes/vc_extra_shortcodes/custombtn.php:19
+msgid "Element Selector."
+msgstr ""
+
+#: ../framework/includes/vc_extra_shortcodes/custombtn.php:24
+msgid "Icon Class"
+msgstr ""
+
+#: ../framework/includes/vc_extra_shortcodes/custombtn.php:27
+msgid "Icon Class."
+msgstr ""
+
+#: ../framework/includes/vc_extra_shortcodes/custombtn.php:32
+msgid "Extra Class"
+msgstr ""
+
+#: ../framework/includes/vc_extra_shortcodes/custombtn.php:35
+msgid "Extra Class."
+msgstr ""
+
+#: ../framework/includes/vc_extra_shortcodes/dropcap.php:7
+msgid "Drop Caps (6 styles)"
+msgstr ""
+
+#: ../framework/includes/vc_extra_shortcodes/dropcap.php:27
+msgid "Select your style"
+msgstr ""
+
+#: ../framework/includes/vc_extra_shortcodes/dropcap.php:31
+#: ../framework/tinymce/cs_shortcode_list.php:485
+msgid "First Text Content"
+msgstr ""
+
+#: ../framework/includes/vc_extra_shortcodes/dropcap.php:37
+msgid "Color First Text"
+msgstr ""
+
+#: ../framework/includes/vc_extra_shortcodes/dropcap.php:43
+msgid "Background Buttom"
+msgstr ""
+
+#: ../framework/includes/vc_extra_shortcodes/dropcap.php:49
+#: ../framework/includes/vc_extra_shortcodes/fancybox.php:30
+#: ../framework/tinymce/cs_shortcode_list.php:517
+msgid "Border Color"
+msgstr ""
+
+#: ../framework/includes/vc_extra_shortcodes/eventscarousel.php:17
+#: ../framework/includes/vc_extra_shortcodes/portfoliocarousel.php:38
+#: ../framework/includes/vc_extra_shortcodes/postcarousel.php:38
+#: ../framework/tinymce/cs_shortcode_list.php:1314
+#: ../framework/tinymce/cs_shortcode_list.php:1485
+msgid "Sub Title"
+msgstr ""
+
+#: ../framework/includes/vc_extra_shortcodes/eventscarousel.php:30
+#: ../framework/includes/vc_extra_shortcodes/portfolio.php:12
+#: ../framework/includes/vc_extra_shortcodes/portfoliocarousel.php:66
+#: ../framework/includes/vc_extra_shortcodes/postcarousel.php:66
+#: ../framework/includes/vc_extra_shortcodes/pricingtable.php:59
+#: ../framework/includes/vc_extra_shortcodes/recentpost.php:26
+#: ../framework/includes/vc_extra_shortcodes/shopcarousel.php:37
+#: ../framework/includes/vc_extra_shortcodes/testimonial.php:12
+#: ../framework/tinymce/cs_shortcode_list.php:1149
+#: ../framework/tinymce/cs_shortcode_list.php:1325
+#: ../framework/tinymce/cs_shortcode_list.php:1496
+#: ../framework/tinymce/cs_shortcode_list.php:1671
+#: ../framework/tinymce/cs_shortcode_list.php:1865
+#: ../framework/tinymce/cs_shortcode_list.php:1979
+#: ../framework/tinymce/cs_shortcode_list.php:2188
+msgid "Categories"
+msgstr ""
+
+#: ../framework/includes/vc_extra_shortcodes/eventscarousel.php:32
+#: ../framework/includes/vc_extra_shortcodes/portfolio.php:14
+#: ../framework/includes/vc_extra_shortcodes/portfoliocarousel.php:68
+#: ../framework/includes/vc_extra_shortcodes/postcarousel.php:68
+#: ../framework/includes/vc_extra_shortcodes/pricingtable.php:61
+#: ../framework/includes/vc_extra_shortcodes/recentpost.php:28
+#: ../framework/includes/vc_extra_shortcodes/shopcarousel.php:39
+#: ../framework/includes/vc_extra_shortcodes/testimonial.php:14
+#: ../framework/tinymce/cs_shortcode_list.php:1150
+#: ../framework/tinymce/cs_shortcode_list.php:1326
+#: ../framework/tinymce/cs_shortcode_list.php:1497
+#: ../framework/tinymce/cs_shortcode_list.php:1672
+#: ../framework/tinymce/cs_shortcode_list.php:1866
+#: ../framework/tinymce/cs_shortcode_list.php:1980
+#: ../framework/tinymce/cs_shortcode_list.php:2189
+msgid ""
+"Note: By default, all your projects will be displayed. <br>If you want to "
+"narrow output, select category(s) above. Only selected categories will be "
+"displayed."
+msgstr ""
+
+#: ../framework/includes/vc_extra_shortcodes/eventscarousel.php:48
+#: ../framework/includes/vc_extra_shortcodes/fullbox.php:63
+#: ../framework/includes/vc_extra_shortcodes/interactivebanner.php:71
+#: ../framework/includes/vc_extra_shortcodes/portfolio.php:42
+#: ../framework/includes/vc_extra_shortcodes/portfoliocarousel.php:86
+#: ../framework/includes/vc_extra_shortcodes/postcarousel.php:88
+#: ../framework/includes/vc_extra_shortcodes/recentpost.php:84
+#: ../framework/tinymce/cs_shortcode_list.php:837
+#: ../framework/tinymce/cs_shortcode_list.php:1176
+#: ../framework/tinymce/cs_shortcode_list.php:1343
+#: ../framework/tinymce/cs_shortcode_list.php:1515
+msgid "Crop image"
+msgstr ""
+
+#: ../framework/includes/vc_extra_shortcodes/eventscarousel.php:53
+#: ../framework/includes/vc_extra_shortcodes/interactivebanner.php:76
+#: ../framework/includes/vc_extra_shortcodes/portfoliocarousel.php:91
+#: ../framework/includes/vc_extra_shortcodes/postcarousel.php:93
+#: ../framework/includes/vc_extra_shortcodes/recentpost.php:87
+#: ../framework/tinymce/cs_shortcode_list.php:841
+#: ../framework/tinymce/cs_shortcode_list.php:1347
+#: ../framework/tinymce/cs_shortcode_list.php:1519
+msgid "Crop or not crop image on your Post."
+msgstr ""
+
+#: ../framework/includes/vc_extra_shortcodes/eventscarousel.php:57
+#: ../framework/includes/vc_extra_shortcodes/interactivebanner.php:80
+#: ../framework/includes/vc_extra_shortcodes/portfolio.php:51
+#: ../framework/includes/vc_extra_shortcodes/portfoliocarousel.php:95
+#: ../framework/includes/vc_extra_shortcodes/postcarousel.php:97
+#: ../framework/includes/vc_extra_shortcodes/recentpost.php:91
+#: ../framework/tinymce/cs_shortcode_list.php:845
+#: ../framework/tinymce/cs_shortcode_list.php:1184
+#: ../framework/tinymce/cs_shortcode_list.php:1351
+#: ../framework/tinymce/cs_shortcode_list.php:1523
+msgid "Width image"
+msgstr ""
+
+#: ../framework/includes/vc_extra_shortcodes/eventscarousel.php:59
+#: ../framework/includes/vc_extra_shortcodes/interactivebanner.php:82
+#: ../framework/includes/vc_extra_shortcodes/portfolio.php:53
+#: ../framework/includes/vc_extra_shortcodes/portfoliocarousel.php:97
+#: ../framework/includes/vc_extra_shortcodes/postcarousel.php:99
+#: ../framework/includes/vc_extra_shortcodes/recentpost.php:93
+#: ../framework/tinymce/cs_shortcode_list.php:846
+#: ../framework/tinymce/cs_shortcode_list.php:1185
+#: ../framework/tinymce/cs_shortcode_list.php:1352
+#: ../framework/tinymce/cs_shortcode_list.php:1524
+msgid "Enter the width of image. Default: 300."
+msgstr ""
+
+#: ../framework/includes/vc_extra_shortcodes/eventscarousel.php:63
+#: ../framework/includes/vc_extra_shortcodes/interactivebanner.php:87
+#: ../framework/includes/vc_extra_shortcodes/portfolio.php:57
+#: ../framework/includes/vc_extra_shortcodes/portfoliocarousel.php:101
+#: ../framework/includes/vc_extra_shortcodes/postcarousel.php:103
+#: ../framework/includes/vc_extra_shortcodes/recentpost.php:97
+#: ../framework/tinymce/cs_shortcode_list.php:851
+#: ../framework/tinymce/cs_shortcode_list.php:1189
+#: ../framework/tinymce/cs_shortcode_list.php:1356
+#: ../framework/tinymce/cs_shortcode_list.php:1528
+msgid "Height image"
+msgstr ""
+
+#: ../framework/includes/vc_extra_shortcodes/eventscarousel.php:65
+#: ../framework/includes/vc_extra_shortcodes/interactivebanner.php:89
+#: ../framework/includes/vc_extra_shortcodes/portfolio.php:59
+#: ../framework/includes/vc_extra_shortcodes/portfoliocarousel.php:103
+#: ../framework/includes/vc_extra_shortcodes/postcarousel.php:105
+#: ../framework/includes/vc_extra_shortcodes/recentpost.php:99
+#: ../framework/tinymce/cs_shortcode_list.php:852
+#: ../framework/tinymce/cs_shortcode_list.php:1190
+#: ../framework/tinymce/cs_shortcode_list.php:1357
+#: ../framework/tinymce/cs_shortcode_list.php:1529
+msgid "Enter the height of image. Default: 200."
+msgstr ""
+
+#: ../framework/includes/vc_extra_shortcodes/eventscarousel.php:108
+#: ../framework/includes/vc_extra_shortcodes/portfoliocarousel.php:146
+#: ../framework/includes/vc_extra_shortcodes/postcarousel.php:148
+#: ../framework/tinymce/cs_shortcode_list.php:1395
+#: ../framework/tinymce/cs_shortcode_list.php:1567
+msgid "Same height."
+msgstr ""
+
+#: ../framework/includes/vc_extra_shortcodes/eventscarousel.php:117
+#: ../framework/includes/vc_extra_shortcodes/portfoliocarousel.php:155
+#: ../framework/includes/vc_extra_shortcodes/postcarousel.php:157
+#: ../framework/tinymce/cs_shortcode_list.php:1403
+#: ../framework/tinymce/cs_shortcode_list.php:1575
+msgid "Show or hide navigation on your carousel post."
+msgstr ""
+
+#: ../framework/includes/vc_extra_shortcodes/eventscarousel.php:121
+#: ../framework/includes/vc_extra_shortcodes/portfolio.php:84
+#: ../framework/includes/vc_extra_shortcodes/shopcarousel.php:92
+#: ../framework/includes/vc_extra_shortcodes/team.php:101
+#: ../framework/includes/vc_extra_shortcodes/testimonial.php:64
+#: ../framework/tinymce/cs_shortcode_list.php:1222
+#: ../framework/tinymce/cs_shortcode_list.php:1407
+#: ../framework/tinymce/cs_shortcode_list.php:1579
+#: ../framework/tinymce/cs_shortcode_list.php:1686
+#: ../framework/tinymce/cs_shortcode_list.php:1913
+#: ../framework/tinymce/cs_shortcode_list.php:2012
+#: ../framework/tinymce/cs_shortcode_list.php:2221
+msgid "Show title"
+msgstr ""
+
+#: ../framework/includes/vc_extra_shortcodes/eventscarousel.php:126
+#: ../framework/tinymce/cs_shortcode_list.php:1411
+#: ../framework/tinymce/cs_shortcode_list.php:1583
+msgid "Show or hide title on your post."
+msgstr ""
+
+#: ../framework/includes/vc_extra_shortcodes/eventscarousel.php:130
+#: ../framework/tinymce/cs_shortcode_list.php:1415
+#: ../framework/tinymce/cs_shortcode_list.php:1587
+msgid "Show date"
+msgstr ""
+
+#: ../framework/includes/vc_extra_shortcodes/eventscarousel.php:135
+#: ../framework/tinymce/cs_shortcode_list.php:1419
+#: ../framework/tinymce/cs_shortcode_list.php:1591
+msgid "Show or hide date of your post."
+msgstr ""
+
+#: ../framework/includes/vc_extra_shortcodes/eventscarousel.php:139
+#: ../framework/includes/vc_extra_shortcodes/portfolio.php:102
+#: ../framework/includes/vc_extra_shortcodes/team.php:133
+#: ../framework/includes/vc_extra_shortcodes/testimonial.php:82
+#: ../framework/tinymce/cs_shortcode_list.php:1238
+#: ../framework/tinymce/cs_shortcode_list.php:1423
+#: ../framework/tinymce/cs_shortcode_list.php:1595
+#: ../framework/tinymce/cs_shortcode_list.php:1694
+#: ../framework/tinymce/cs_shortcode_list.php:2028
+#: ../framework/tinymce/cs_shortcode_list.php:2237
+msgid "Show description"
+msgstr ""
+
+#: ../framework/includes/vc_extra_shortcodes/eventscarousel.php:144
+#: ../framework/tinymce/cs_shortcode_list.php:1427
+#: ../framework/tinymce/cs_shortcode_list.php:1599
+msgid "Show or hide description of your post."
+msgstr ""
+
+#: ../framework/includes/vc_extra_shortcodes/eventscarousel.php:148
+#: ../framework/includes/vc_extra_shortcodes/portfolio.php:118
+#: ../framework/includes/vc_extra_shortcodes/portfoliocarousel.php:159
+#: ../framework/includes/vc_extra_shortcodes/postcarousel.php:161
+#: ../framework/includes/vc_extra_shortcodes/recentpost.php:103
+#: ../framework/includes/vc_extra_shortcodes/testimonial.php:91
+#: ../framework/tinymce/cs_shortcode_list.php:1259
+#: ../framework/tinymce/cs_shortcode_list.php:1431
+#: ../framework/tinymce/cs_shortcode_list.php:1603
+#: ../framework/tinymce/cs_shortcode_list.php:2044
+#: ../framework/tinymce/cs_shortcode_list.php:2245
+msgid "Excerpt Length"
+msgstr ""
+
+#: ../framework/includes/vc_extra_shortcodes/eventscarousel.php:151
+#: ../framework/includes/vc_extra_shortcodes/portfoliocarousel.php:162
+#: ../framework/includes/vc_extra_shortcodes/postcarousel.php:164
+#: ../framework/tinymce/cs_shortcode_list.php:1433
+#: ../framework/tinymce/cs_shortcode_list.php:1605
+msgid ""
+"The length of the excerpt, number of words to display. Set to \"-1\" for no "
+"excerpt. Default: 100."
+msgstr ""
+
+#: ../framework/includes/vc_extra_shortcodes/eventscarousel.php:155
+#: ../framework/includes/vc_extra_shortcodes/fancybox.php:169
+#: ../framework/includes/vc_extra_shortcodes/portfoliocarousel.php:166
+#: ../framework/includes/vc_extra_shortcodes/postcarousel.php:168
+#: ../framework/includes/vc_extra_shortcodes/recentpost.php:110
+#: ../framework/tinymce/cs_shortcode_list.php:643
+#: ../framework/tinymce/cs_shortcode_list.php:1437
+#: ../framework/tinymce/cs_shortcode_list.php:1609
+msgid "Read More"
+msgstr ""
+
+#: ../framework/includes/vc_extra_shortcodes/eventscarousel.php:158
+#: ../framework/includes/vc_extra_shortcodes/portfolio.php:128
+#: ../framework/includes/vc_extra_shortcodes/portfoliocarousel.php:169
+#: ../framework/includes/vc_extra_shortcodes/postcarousel.php:171
+#: ../framework/includes/vc_extra_shortcodes/testimonial.php:101
+#: ../framework/tinymce/cs_shortcode_list.php:1267
+#: ../framework/tinymce/cs_shortcode_list.php:1273
+#: ../framework/tinymce/cs_shortcode_list.php:1279
+#: ../framework/tinymce/cs_shortcode_list.php:1439
+#: ../framework/tinymce/cs_shortcode_list.php:1611
+#: ../framework/tinymce/cs_shortcode_list.php:2052
+#: ../framework/tinymce/cs_shortcode_list.php:2253
+msgid ""
+"Enter desired text for the link or for no link, leave blank or set to \\"
+"\"-1\\\"."
+msgstr ""
+
+#: ../framework/includes/vc_extra_shortcodes/fancybox.php:7
+msgid "Icon Boxes (10 styles)"
+msgstr ""
+
+#: ../framework/includes/vc_extra_shortcodes/fancybox.php:11
+#: ../framework/includes/vc_extra_shortcodes/interactivebanner.php:31
+#: ../framework/tinymce/cs_shortcode_list.php:499
+#: ../framework/tinymce/cs_shortcode_list.php:797
+msgid "Icons"
+msgstr ""
+
+#: ../framework/includes/vc_extra_shortcodes/fancybox.php:18
+#: ../framework/tinymce/cs_shortcode_list.php:505
+msgid "Size Icons"
+msgstr ""
+
+#: ../framework/includes/vc_extra_shortcodes/fancybox.php:24
+#: ../framework/tinymce/cs_shortcode_list.php:511
+msgid "Icons Color"
+msgstr ""
+
+#: ../framework/includes/vc_extra_shortcodes/fancybox.php:36
+#: ../framework/tinymce/cs_shortcode_list.php:523
+msgid "Border Width"
+msgstr ""
+
+#: ../framework/includes/vc_extra_shortcodes/fancybox.php:42
+#: ../framework/tinymce/cs_shortcode_list.php:529
+msgid "Border Style"
+msgstr ""
+
+#: ../framework/includes/vc_extra_shortcodes/fancybox.php:55
+#: ../framework/tinymce/cs_shortcode_list.php:541
+msgid "Icons Width"
+msgstr ""
+
+#: ../framework/includes/vc_extra_shortcodes/fancybox.php:61
+#: ../framework/tinymce/cs_shortcode_list.php:547
+msgid "Icons Height"
+msgstr ""
+
+#: ../framework/includes/vc_extra_shortcodes/fancybox.php:67
+#: ../framework/tinymce/cs_shortcode_list.php:553
+msgid "Icon style"
+msgstr ""
+
+#: ../framework/includes/vc_extra_shortcodes/fancybox.php:85
+#: ../framework/includes/vc_extra_shortcodes/fullbox.php:107
+#: ../framework/tinymce/cs_shortcode_list.php:570
+#: ../framework/tinymce/cs_shortcode_list.php:730
+msgid "Icon animate type"
+msgstr ""
+
+#: ../framework/includes/vc_extra_shortcodes/fancybox.php:100
+#: ../framework/tinymce/cs_shortcode_list.php:584
+msgid "Show icon link"
+msgstr ""
+
+#: ../framework/includes/vc_extra_shortcodes/fancybox.php:105
+#: ../framework/tinymce/cs_shortcode_list.php:588
+msgid "Show or hide icon link."
+msgstr ""
+
+#: ../framework/includes/vc_extra_shortcodes/fancybox.php:109
+#: ../framework/includes/vc_extra_shortcodes/fullbox.php:57
+#: ../framework/includes/vc_extra_shortcodes/interactivebanner.php:51
+#: ../framework/tinymce/cs_shortcode_list.php:592
+#: ../framework/tinymce/cs_shortcode_list.php:702
+#: ../framework/tinymce/cs_shortcode_list.php:817
+msgid "Image"
+msgstr ""
+
+#: ../framework/includes/vc_extra_shortcodes/fancybox.php:121
+#: ../framework/tinymce/cs_shortcode_list.php:604
+msgid "Lowercase Title"
+msgstr ""
+
+#: ../framework/includes/vc_extra_shortcodes/fancybox.php:136
+#: ../framework/tinymce/cs_shortcode_list.php:618
+msgid "Title Margin"
+msgstr ""
+
+#: ../framework/includes/vc_extra_shortcodes/fancybox.php:163
+#: ../framework/includes/vc_extra_shortcodes/fullbox.php:51
+#: ../framework/tinymce/cs_shortcode_list.php:637
+msgid "Content Color"
+msgstr ""
+
+#: ../framework/includes/vc_extra_shortcodes/fancybox.php:172
+#: ../framework/includes/vc_extra_shortcodes/recentpost.php:113
+#: ../framework/tinymce/cs_shortcode_list.php:645
+msgid ""
+"Optional link after post excerpts. Enter desired text for the link or for no "
+"link, leave blank or set to \\\"-1\\\"."
+msgstr ""
+
+#: ../framework/includes/vc_extra_shortcodes/fancybox.php:176
+#: ../framework/tinymce/cs_shortcode_list.php:649
+msgid "Read Margin"
+msgstr ""
+
+#: ../framework/includes/vc_extra_shortcodes/fancybox.php:183
+#: ../framework/tinymce/cs_shortcode_list.php:655
+msgid "Read Button"
+msgstr ""
+
+#: ../framework/includes/vc_extra_shortcodes/fancybox.php:192
+#: ../framework/includes/vc_extra_shortcodes/interactivebanner.php:99
+#: ../framework/tinymce/cs_shortcode_list.php:663
+#: ../framework/tinymce/cs_shortcode_list.php:862
+msgid "Link show more"
+msgstr ""
+
+#: ../framework/includes/vc_extra_shortcodes/fancybox.php:198
+#: ../framework/includes/vc_extra_shortcodes/fullbox.php:128
+#: ../framework/includes/vc_extra_shortcodes/interactivebanner.php:135
+#: ../framework/includes/vc_extra_shortcodes/testimonial.php:142
+#: ../framework/tinymce/cs_shortcode_list.php:669
+#: ../framework/tinymce/cs_shortcode_list.php:764
+#: ../framework/tinymce/cs_shortcode_list.php:896
+#: ../framework/tinymce/cs_shortcode_list.php:2088
+#: ../framework/tinymce/cs_shortcode_list.php:2288
+msgid "Custom Class"
+msgstr ""
+
+#: ../framework/includes/vc_extra_shortcodes/fullbox.php:7
+msgid "Full Box & 15 styles hover"
+msgstr ""
+
+#: ../framework/includes/vc_extra_shortcodes/fullbox.php:45
+msgid "Content Limit Work"
+msgstr ""
+
+#: ../framework/includes/vc_extra_shortcodes/fullbox.php:68
+msgid "Crop or not crop image on your Full Box."
+msgstr ""
+
+#: ../framework/includes/vc_extra_shortcodes/fullbox.php:72
+msgid "Height Image"
+msgstr ""
+
+#: ../framework/includes/vc_extra_shortcodes/fullbox.php:74
+msgid "Enter the height of image. Default: 200"
+msgstr ""
+
+#: ../framework/includes/vc_extra_shortcodes/fullbox.php:78
+msgid "Width Image"
+msgstr ""
+
+#: ../framework/includes/vc_extra_shortcodes/fullbox.php:80
+msgid "Enter the width of image. Default: 300"
+msgstr ""
+
+#: ../framework/includes/vc_extra_shortcodes/fullbox.php:122
+#: ../framework/tinymce/cs_shortcode_list.php:744
+msgid "Link"
+msgstr ""
+
+#: ../framework/includes/vc_extra_shortcodes/googlemapv3.php:7
+msgid "Map API V3 Unlimited Style"
+msgstr ""
+
+#: ../framework/includes/vc_extra_shortcodes/googlemapv3.php:13
+msgid "Title of Map"
+msgstr ""
+
+#: ../framework/includes/vc_extra_shortcodes/googlemapv3.php:37
+msgid "API Key"
+msgstr ""
+
+#: ../framework/includes/vc_extra_shortcodes/googlemapv3.php:40
+msgid ""
+"Enter you api key of map, get key from (https://console.developers.google."
+"com)"
+msgstr ""
+
+#: ../framework/includes/vc_extra_shortcodes/googlemapv3.php:44
+msgid "Address"
+msgstr ""
+
+#: ../framework/includes/vc_extra_shortcodes/googlemapv3.php:47
+msgid "Enter address of Map"
+msgstr ""
+
+#: ../framework/includes/vc_extra_shortcodes/googlemapv3.php:51
+msgid "Coordinate"
+msgstr ""
+
+#: ../framework/includes/vc_extra_shortcodes/googlemapv3.php:54
+msgid "Enter coordinate of Map, format input (latitude, longitude)"
+msgstr ""
+
+#: ../framework/includes/vc_extra_shortcodes/googlemapv3.php:58
+msgid "Click Show Info window"
+msgstr ""
+
+#: ../framework/includes/vc_extra_shortcodes/googlemapv3.php:63
+msgid "Click a marker and show info window (Default Show)."
+msgstr ""
+
+#: ../framework/includes/vc_extra_shortcodes/googlemapv3.php:67
+msgid "Marker Coordinate"
+msgstr ""
+
+#: ../framework/includes/vc_extra_shortcodes/googlemapv3.php:70
+msgid "Enter marker coordinate of Map, format input (latitude, longitude)"
+msgstr ""
+
+#: ../framework/includes/vc_extra_shortcodes/googlemapv3.php:74
+msgid "Marker Title"
+msgstr ""
+
+#: ../framework/includes/vc_extra_shortcodes/googlemapv3.php:77
+msgid "Enter Title Info windows for marker"
+msgstr ""
+
+#: ../framework/includes/vc_extra_shortcodes/googlemapv3.php:81
+msgid "Marker Description"
+msgstr ""
+
+#: ../framework/includes/vc_extra_shortcodes/googlemapv3.php:84
+msgid "Enter Description Info windows for marker"
+msgstr ""
+
+#: ../framework/includes/vc_extra_shortcodes/googlemapv3.php:88
+msgid "Marker Icon"
+msgstr ""
+
+#: ../framework/includes/vc_extra_shortcodes/googlemapv3.php:91
+msgid "Select image icon for marker"
+msgstr ""
+
+#: ../framework/includes/vc_extra_shortcodes/googlemapv3.php:95
+msgid "Marker List"
+msgstr ""
+
+#: ../framework/includes/vc_extra_shortcodes/googlemapv3.php:98
+msgid ""
+"[{\"coordinate\":\"41.058846,-73.539423\",\"icon\":\"\",\"title\":\"title "
+"demo 1\",\"desc\":\"desc demo 1\"},{\"coordinate\":\"40.975699,-73.717636\","
+"\"icon\":\"\",\"title\":\"title demo 2\",\"desc\":\"desc demo 2\"},"
+"{\"coordinate\":\"41.082606,-73.469718\",\"icon\":\"\",\"title\":\"title "
+"demo 3\",\"desc\":\"desc demo 3\"}]"
+msgstr ""
+
+#: ../framework/includes/vc_extra_shortcodes/googlemapv3.php:102
+msgid "Info Window Max Width"
+msgstr ""
+
+#: ../framework/includes/vc_extra_shortcodes/googlemapv3.php:105
+msgid "Set max width for info window"
+msgstr ""
+
+#: ../framework/includes/vc_extra_shortcodes/googlemapv3.php:109
+msgid "Map Type"
+msgstr ""
+
+#: ../framework/includes/vc_extra_shortcodes/googlemapv3.php:117
+msgid "Select the map type."
+msgstr ""
+
+#: ../framework/includes/vc_extra_shortcodes/googlemapv3.php:121
+msgid "Style Template"
+msgstr ""
+
+#: ../framework/includes/vc_extra_shortcodes/googlemapv3.php:137
+msgid "Custom Template"
+msgstr ""
+
+#: ../framework/includes/vc_extra_shortcodes/googlemapv3.php:140
+msgid "Get template from http://snazzymaps.com"
+msgstr ""
+
+#: ../framework/includes/vc_extra_shortcodes/googlemapv3.php:144
+#: ../framework/shortcodes/portfoliocarousel/styles/style-3.php:74
+#: ../framework/shortcodes/portfoliocarousel/styles/style-4.php:74
+#: ../framework/shortcodes/portfoliocarousel/styles/style-5.php:74
+#: ../framework/shortcodes/postcarousel/styles/style-1-retro.php:58
+#: ../framework/shortcodes/postcarousel/styles/style-1-unblemished.php:66
+#: ../framework/shortcodes/postcarousel/styles/style-2-consilium.php:66
+msgid "Zoom"
+msgstr ""
+
+#: ../framework/includes/vc_extra_shortcodes/googlemapv3.php:147
+msgid "zoom level of map, default is 13"
+msgstr ""
+
+#: ../framework/includes/vc_extra_shortcodes/googlemapv3.php:151
+#: ../framework/includes/vc_extra_shortcodes/piechart.php:82
+#: ../framework/includes/vc_extra_shortcodes/progressbar.php:141
+#: ../framework/tinymce/cs_shortcode_list.php:750
+#: ../framework/tinymce/cs_shortcode_list.php:1825
+msgid "Width"
+msgstr ""
+
+#: ../framework/includes/vc_extra_shortcodes/googlemapv3.php:154
+msgid "Width of map without pixel, default is auto"
+msgstr ""
+
+#: ../framework/includes/vc_extra_shortcodes/googlemapv3.php:158
+#: ../framework/includes/vc_extra_shortcodes/piechart.php:90
+#: ../framework/includes/vc_extra_shortcodes/progressbar.php:149
+#: ../framework/tinymce/cs_shortcode_list.php:757
+#: ../framework/tinymce/cs_shortcode_list.php:1832
+msgid "Height"
+msgstr ""
+
+#: ../framework/includes/vc_extra_shortcodes/googlemapv3.php:161
+msgid "Height of map without pixel, default is 350px"
+msgstr ""
+
+#: ../framework/includes/vc_extra_shortcodes/googlemapv3.php:165
+msgid "Scroll Wheel"
+msgstr ""
+
+#: ../framework/includes/vc_extra_shortcodes/googlemapv3.php:170
+msgid ""
+"If false, disables scrollwheel zooming on the map. The scrollwheel is "
+"disable by default."
+msgstr ""
+
+#: ../framework/includes/vc_extra_shortcodes/googlemapv3.php:174
+msgid "Pan Control"
+msgstr ""
+
+#: ../framework/includes/vc_extra_shortcodes/googlemapv3.php:179
+msgid "Show or hide Pan control."
+msgstr ""
+
+#: ../framework/includes/vc_extra_shortcodes/googlemapv3.php:183
+msgid "Zoom Control"
+msgstr ""
+
+#: ../framework/includes/vc_extra_shortcodes/googlemapv3.php:188
+msgid "Show or hide Zoom Control."
+msgstr ""
+
+#: ../framework/includes/vc_extra_shortcodes/googlemapv3.php:192
+msgid "Scale Control"
+msgstr ""
+
+#: ../framework/includes/vc_extra_shortcodes/googlemapv3.php:197
+msgid "Show or hide Scale Control."
+msgstr ""
+
+#: ../framework/includes/vc_extra_shortcodes/googlemapv3.php:201
+msgid "Map Type Control"
+msgstr ""
+
+#: ../framework/includes/vc_extra_shortcodes/googlemapv3.php:206
+msgid "Show or hide Map Type Control."
+msgstr ""
+
+#: ../framework/includes/vc_extra_shortcodes/googlemapv3.php:210
+msgid "Street View Control"
+msgstr ""
+
+#: ../framework/includes/vc_extra_shortcodes/googlemapv3.php:215
+msgid "Show or hide Street View Control."
+msgstr ""
+
+#: ../framework/includes/vc_extra_shortcodes/googlemapv3.php:219
+msgid "Over View Map Control"
+msgstr ""
+
+#: ../framework/includes/vc_extra_shortcodes/googlemapv3.php:224
+msgid "Show or hide Over View Map Control."
+msgstr ""
+
+#: ../framework/includes/vc_extra_shortcodes/interactivebanner.php:7
+msgid "Interactive Banner"
+msgstr ""
+
+#: ../framework/includes/vc_extra_shortcodes/interactivebanner.php:27
+#: ../framework/includes/vc_extra_shortcodes/progressbar.php:29
+#: ../framework/includes/vc_extra_shortcodes/team.php:120
+msgid "Select your heading size for title."
+msgstr ""
+
+#: ../framework/includes/vc_extra_shortcodes/interactivebanner.php:37
+#: ../framework/tinymce/cs_shortcode_list.php:803
+msgid "Short Description"
+msgstr ""
+
+#: ../framework/includes/vc_extra_shortcodes/interactivebanner.php:44
+#: ../framework/tinymce/cs_shortcode_list.php:810
+msgid "Full Description"
+msgstr ""
+
+#: ../framework/includes/vc_extra_shortcodes/interactivebanner.php:57
+#: ../framework/tinymce/cs_shortcode_list.php:823
+msgid "overlay"
+msgstr ""
+
+#: ../framework/includes/vc_extra_shortcodes/interactivebanner.php:64
+#: ../framework/tinymce/cs_shortcode_list.php:830
+msgid "Overlay Hover"
+msgstr ""
+
+#: ../framework/includes/vc_extra_shortcodes/interactivebanner.php:93
+#: ../framework/tinymce/cs_shortcode_list.php:856
+msgid "Readmore Text"
+msgstr ""
+
+#: ../framework/includes/vc_extra_shortcodes/interactivebanner.php:101
+msgid "Fill URL if you want to show read more link."
+msgstr ""
+
+#: ../framework/includes/vc_extra_shortcodes/interactivebanner.php:115
+msgid "Select your style of interactive banner."
+msgstr ""
+
+#: ../framework/includes/vc_extra_shortcodes/interactivebanner.php:119
+#: ../framework/tinymce/cs_shortcode_list.php:881
+msgid "animate type"
+msgstr ""
+
+#: ../framework/includes/vc_extra_shortcodes/interactivebanner.php:130
+msgid "Select your animate type of icon."
+msgstr ""
+
+#: ../framework/includes/vc_extra_shortcodes/latesttwitter.php:7
+msgid "Latest Twitter Carousel (Horizontal & Vertical)"
+msgstr ""
+
+#: ../framework/includes/vc_extra_shortcodes/latesttwitter.php:39
+#: ../framework/tinymce/cs_shortcode_list.php:915
+msgid "Consumer key"
+msgstr ""
+
+#: ../framework/includes/vc_extra_shortcodes/latesttwitter.php:46
+#: ../framework/tinymce/cs_shortcode_list.php:922
+msgid "Consumer secret"
+msgstr ""
+
+#: ../framework/includes/vc_extra_shortcodes/latesttwitter.php:53
+#: ../framework/tinymce/cs_shortcode_list.php:929
+msgid "Access token"
+msgstr ""
+
+#: ../framework/includes/vc_extra_shortcodes/latesttwitter.php:60
+#: ../framework/tinymce/cs_shortcode_list.php:936
+msgid "Accesstoken secret"
+msgstr ""
+
+#: ../framework/includes/vc_extra_shortcodes/latesttwitter.php:67
+#: ../framework/tinymce/cs_shortcode_list.php:943
+msgid "Cache time(hours)"
+msgstr ""
+
+#: ../framework/includes/vc_extra_shortcodes/latesttwitter.php:74
+#: ../framework/tinymce/cs_shortcode_list.php:950
+#: ../framework/widgets/instagram.php:95
+msgid "Username"
+msgstr ""
+
+#: ../framework/includes/vc_extra_shortcodes/latesttwitter.php:92
+#: ../framework/tinymce/cs_shortcode_list.php:968
+msgid "Tweets to show"
+msgstr ""
+
+#: ../framework/includes/vc_extra_shortcodes/latesttwitter.php:102
+#: ../framework/tinymce/cs_shortcode_list.php:978
+msgid "Show avatar"
+msgstr ""
+
+#: ../framework/includes/vc_extra_shortcodes/latesttwitter.php:112
+#: ../framework/tinymce/cs_shortcode_list.php:988
+msgid "Exclude replies"
+msgstr ""
+
+#: ../framework/includes/vc_extra_shortcodes/latesttwitter.php:122
+#: ../framework/tinymce/cs_shortcode_list.php:998
+msgid "Type of transition"
+msgstr ""
+
+#: ../framework/includes/vc_extra_shortcodes/latesttwitter.php:129
+#: ../framework/includes/vc_extra_shortcodes/pricingtable.php:99
+#: ../framework/tinymce/cs_shortcode_list.php:1005
+#: ../framework/tinymce/cs_shortcode_list.php:1723
+msgid "Extra class"
+msgstr ""
+
+#: ../framework/includes/vc_extra_shortcodes/latesttwitter.php:139
+#: ../framework/tinymce/cs_shortcode_list.php:1015
+msgid "Auto Slide"
+msgstr ""
+
+#: ../framework/includes/vc_extra_shortcodes/latesttwitter.php:149
+#: ../framework/tinymce/cs_shortcode_list.php:1025
+msgid "Pause on Hover"
+msgstr ""
+
+#: ../framework/includes/vc_extra_shortcodes/latesttwitter.php:159
+#: ../framework/tinymce/cs_shortcode_list.php:1035
+msgid "Touch Enable"
+msgstr ""
+
+#: ../framework/includes/vc_extra_shortcodes/latesttwitter.php:166
+#: ../framework/tinymce/cs_shortcode_list.php:1042
+msgid "Tweet Scroll"
+msgstr ""
+
+#: ../framework/includes/vc_extra_shortcodes/latesttwitter.php:173
+#: ../framework/tinymce/cs_shortcode_list.php:1049
+msgid "Time Out"
+msgstr ""
+
+#: ../framework/includes/vc_extra_shortcodes/latesttwitter.php:183
+#: ../framework/tinymce/cs_shortcode_list.php:1059
+msgid "Show control"
+msgstr ""
+
+#: ../framework/includes/vc_extra_shortcodes/logo.php:6
+#: ../framework/includes/vc_extra_shortcodes/logo.php:20
+msgid "Logo"
+msgstr ""
+
+#: ../framework/includes/vc_extra_shortcodes/logo.php:10
+msgid "Custom logo."
+msgstr ""
+
+#: ../framework/includes/vc_extra_shortcodes/logo.php:23
+msgid "Default get logo from admin."
+msgstr ""
+
+#: ../framework/includes/vc_extra_shortcodes/logo.php:27
+#: ../framework/tinymce/cs_shortcode_list.php:2135
+msgid "Logo align"
+msgstr ""
+
+#: ../framework/includes/vc_extra_shortcodes/logo.php:30
+msgid "Select your logo align."
+msgstr ""
+
+#: ../framework/includes/vc_extra_shortcodes/menu.php:19
+msgid "Load a menu"
+msgstr ""
+
+#: ../framework/includes/vc_extra_shortcodes/menu.php:29
+#: ../framework/tinymce/cs_shortcode_list.php:2158
+msgid "Menu"
+msgstr ""
+
+#: ../framework/includes/vc_extra_shortcodes/menu.php:32
+#: ../framework/tinymce/cs_shortcode_list.php:2160
+msgid ""
+"Custom menus not found. Please visit <b>Appearance > Menus</b> page to "
+"create new menu."
+msgstr ""
+
+#: ../framework/includes/vc_extra_shortcodes/menu.php:37
+#: ../framework/tinymce/cs_shortcode_list.php:2165
+msgid "Menu align"
+msgstr ""
+
+#: ../framework/includes/vc_extra_shortcodes/menu.php:40
+#: ../framework/tinymce/cs_shortcode_list.php:2167
+msgid "Select your menu align."
+msgstr ""
+
+#: ../framework/includes/vc_extra_shortcodes/menu.php:44
+#: ../framework/tinymce/cs_shortcode_list.php:2171
+msgid "Line height"
+msgstr ""
+
+#: ../framework/includes/vc_extra_shortcodes/piechart.php:7
+msgid "Pie, Doughnut Charts, Area Chart, Line Chart, Bar Chart..."
+msgstr ""
+
+#: ../framework/includes/vc_extra_shortcodes/piechart.php:18
+#: ../framework/tinymce/cs_shortcode_list.php:1076
+msgid "Title Tag"
+msgstr ""
+
+#: ../framework/includes/vc_extra_shortcodes/piechart.php:60
+#: ../framework/tinymce/cs_shortcode_list.php:1105
+msgid "Inner Cutout"
+msgstr ""
+
+#: ../framework/includes/vc_extra_shortcodes/piechart.php:63
+#: ../framework/tinymce/cs_shortcode_list.php:1107
+msgid ""
+"Number 0->99 - The percentage of the chart that we cut out of the middle "
+"(This is 0 for Pie charts)"
+msgstr ""
+
+#: ../framework/includes/vc_extra_shortcodes/piechart.php:98
+msgid "Values for (Doughnut, Pie, Area Chart)"
+msgstr ""
+
+#: ../framework/includes/vc_extra_shortcodes/piechart.php:106
+msgid "Values for (Line Chart, Bar Chart, Radar Chart)"
+msgstr ""
+
+#: ../framework/includes/vc_extra_shortcodes/portfolio.php:7
+#: ../framework/views/posttype/portfolio.php:4
+#: ../framework/views/posttype/portfolio.php:7
+msgid "Portfolio"
+msgstr ""
+
+#: ../framework/includes/vc_extra_shortcodes/portfolio.php:19
+#: ../framework/tinymce/cs_shortcode_list.php:1155
+msgid "Appearance"
+msgstr ""
+
+#: ../framework/includes/vc_extra_shortcodes/portfolio.php:30
+#: ../framework/includes/vc_extra_shortcodes/pricingtable.php:65
+#: ../framework/includes/vc_extra_shortcodes/recentpost.php:72
+#: ../framework/tinymce/cs_shortcode_list.php:1165
+#: ../framework/tinymce/cs_shortcode_list.php:1676
+#: ../framework/tinymce/cs_shortcode_list.php:2001
+#: ../framework/tinymce/cs_shortcode_list.php:2210
+#: ../framework/widgets/instagram.php:97
+msgid "Columns"
+msgstr ""
+
+#: ../framework/includes/vc_extra_shortcodes/portfolio.php:47
+#: ../framework/tinymce/cs_shortcode_list.php:1180
+msgid "Crop or not crop image on your Portfolio."
+msgstr ""
+
+#: ../framework/includes/vc_extra_shortcodes/portfolio.php:71
+msgid "Style 1 only show plus button"
+msgstr ""
+
+#: ../framework/includes/vc_extra_shortcodes/portfolio.php:75
+#: ../framework/tinymce/cs_shortcode_list.php:1214
+msgid "Filter"
+msgstr ""
+
+#: ../framework/includes/vc_extra_shortcodes/portfolio.php:80
+#: ../framework/tinymce/cs_shortcode_list.php:1218
+msgid "Would you like your portfolio items to be filter?"
+msgstr ""
+
+#: ../framework/includes/vc_extra_shortcodes/portfolio.php:89
+#: ../framework/includes/vc_extra_shortcodes/team.php:106
+#: ../framework/includes/vc_extra_shortcodes/testimonial.php:69
+#: ../framework/tinymce/cs_shortcode_list.php:1226
+#: ../framework/tinymce/cs_shortcode_list.php:2016
+#: ../framework/tinymce/cs_shortcode_list.php:2225
+msgid "Show or hide title on your Portfolio."
+msgstr ""
+
+#: ../framework/includes/vc_extra_shortcodes/portfolio.php:93
+#: ../framework/includes/vc_extra_shortcodes/shopcarousel.php:101
+#: ../framework/includes/vc_extra_shortcodes/team.php:124
+#: ../framework/includes/vc_extra_shortcodes/testimonial.php:73
+#: ../framework/tinymce/cs_shortcode_list.php:1230
+#: ../framework/tinymce/cs_shortcode_list.php:1921
+#: ../framework/tinymce/cs_shortcode_list.php:2020
+#: ../framework/tinymce/cs_shortcode_list.php:2229
+msgid "Show category"
+msgstr ""
+
+#: ../framework/includes/vc_extra_shortcodes/portfolio.php:98
+#: ../framework/tinymce/cs_shortcode_list.php:1234
+msgid "Show or hide category on your Portfolio."
+msgstr ""
+
+#: ../framework/includes/vc_extra_shortcodes/portfolio.php:107
+#: ../framework/includes/vc_extra_shortcodes/team.php:138
+#: ../framework/includes/vc_extra_shortcodes/testimonial.php:87
+#: ../framework/tinymce/cs_shortcode_list.php:1242
+#: ../framework/tinymce/cs_shortcode_list.php:2032
+#: ../framework/tinymce/cs_shortcode_list.php:2241
+msgid "Show or hide description on your Portfolio."
+msgstr ""
+
+#: ../framework/includes/vc_extra_shortcodes/portfolio.php:121
+#: ../framework/includes/vc_extra_shortcodes/recentpost.php:106
+#: ../framework/includes/vc_extra_shortcodes/testimonial.php:94
+#: ../framework/tinymce/cs_shortcode_list.php:1261
+#: ../framework/tinymce/cs_shortcode_list.php:2046
+#: ../framework/tinymce/cs_shortcode_list.php:2247
+msgid ""
+"The length of the excerpt, number of words to display. Set to \"-1\" for no "
+"excerpt."
+msgstr ""
+
+#: ../framework/includes/vc_extra_shortcodes/portfolio.php:125
+#: ../framework/tinymce/cs_shortcode_list.php:1265
+msgid "Show Enlarge"
+msgstr ""
+
+#: ../framework/includes/vc_extra_shortcodes/portfolio.php:132
+#: ../framework/tinymce/cs_shortcode_list.php:1271
+msgid "Show Read More"
+msgstr ""
+
+#: ../framework/includes/vc_extra_shortcodes/portfoliocarousel.php:7
+msgid "Portfolio Carousel"
+msgstr ""
+
+#: ../framework/includes/vc_extra_shortcodes/portfoliocarousel.php:44
+#: ../framework/includes/vc_extra_shortcodes/postcarousel.php:44
+msgid "Sub Heading size"
+msgstr ""
+
+#: ../framework/includes/vc_extra_shortcodes/portfoliocarousel.php:73
+#: ../framework/includes/vc_extra_shortcodes/postcarousel.php:73
+#: ../framework/tinymce/cs_shortcode_list.php:1331
+#: ../framework/tinymce/cs_shortcode_list.php:1502
+msgid "Styles"
+msgstr ""
+
+#: ../framework/includes/vc_extra_shortcodes/postcarousel.php:7
+msgid "Post Carousel (5 Styles)"
+msgstr ""
+
+#: ../framework/includes/vc_extra_shortcodes/pricingtable.php:7
+msgid "Pricing Table"
+msgstr ""
+
+#: ../framework/includes/vc_extra_shortcodes/pricingtable.php:43
+#: ../framework/includes/vc_extra_shortcodes/progressbar.php:47
+msgid "Description Color"
+msgstr ""
+
+#: ../framework/includes/vc_extra_shortcodes/pricingtable.php:49
+#: ../framework/tinymce/cs_shortcode_list.php:1662
+msgid "Show Image"
+msgstr ""
+
+#: ../framework/includes/vc_extra_shortcodes/pricingtable.php:54
+#: ../framework/tinymce/cs_shortcode_list.php:1666
+msgid "Show or hide featured image on your Pricing."
+msgstr ""
+
+#: ../framework/includes/vc_extra_shortcodes/pricingtable.php:72
+#: ../framework/tinymce/cs_shortcode_list.php:1682
+msgid ""
+"How many columns would you like to display on the Pricing Overview page?"
+msgstr ""
+
+#: ../framework/includes/vc_extra_shortcodes/pricingtable.php:102
+#: ../framework/tinymce/cs_shortcode_list.php:1725
+msgid "Enter extra class for pricing style."
+msgstr ""
+
+#: ../framework/includes/vc_extra_shortcodes/progressbar.php:7
+msgid "Progress (Horizontal & Vertical)"
+msgstr ""
+
+#: ../framework/includes/vc_extra_shortcodes/progressbar.php:55
+#: ../framework/tinymce/cs_shortcode_list.php:1750
+msgid "Value"
+msgstr ""
+
+#: ../framework/includes/vc_extra_shortcodes/progressbar.php:64
+#: ../framework/tinymce/cs_shortcode_list.php:1757
+msgid "Label value"
+msgstr ""
+
+#: ../framework/includes/vc_extra_shortcodes/progressbar.php:78
+#: ../framework/tinymce/cs_shortcode_list.php:1769
+msgid "Color"
+msgstr ""
+
+#: ../framework/includes/vc_extra_shortcodes/progressbar.php:84
+#: ../framework/includes/vc_extra_shortcodes/recentpost.php:32
+#: ../framework/tinymce/cs_shortcode_list.php:1774
+msgid "Show Title"
+msgstr ""
+
+#: ../framework/includes/vc_extra_shortcodes/progressbar.php:94
+#: ../framework/tinymce/cs_shortcode_list.php:1783
+msgid "Vertical"
+msgstr ""
+
+#: ../framework/includes/vc_extra_shortcodes/progressbar.php:103
+#: ../framework/tinymce/cs_shortcode_list.php:1791
+msgid "Striped"
+msgstr ""
+
+#: ../framework/includes/vc_extra_shortcodes/progressbar.php:112
+#: ../framework/tinymce/cs_shortcode_list.php:1799
+msgid "Animated"
+msgstr ""
+
+#: ../framework/includes/vc_extra_shortcodes/progressbar.php:117
+msgid "Animate for Stripe"
+msgstr ""
+
+#: ../framework/includes/vc_extra_shortcodes/progressbar.php:121
+#: ../framework/tinymce/cs_shortcode_list.php:1807
+msgid "Right"
+msgstr ""
+
+#: ../framework/includes/vc_extra_shortcodes/progressbar.php:130
+#: ../framework/tinymce/cs_shortcode_list.php:1815
+msgid "Show Value"
+msgstr ""
+
+#: ../framework/includes/vc_extra_shortcodes/recentpost.php:35
+msgid "Show or hide the post title."
+msgstr ""
+
+#: ../framework/includes/vc_extra_shortcodes/recentpost.php:39
+msgid "Heading"
+msgstr ""
+
+#: ../framework/includes/vc_extra_shortcodes/recentpost.php:42
+msgid "Heading tag of title."
+msgstr ""
+
+#: ../framework/includes/vc_extra_shortcodes/recentpost.php:46
+msgid "Show Category"
+msgstr ""
+
+#: ../framework/includes/vc_extra_shortcodes/recentpost.php:49
+msgid "Show or hide the post category."
+msgstr ""
+
+#: ../framework/includes/vc_extra_shortcodes/recentpost.php:53
+msgid "Show Date"
+msgstr ""
+
+#: ../framework/includes/vc_extra_shortcodes/recentpost.php:56
+msgid "Show or hide the post date."
+msgstr ""
+
+#: ../framework/includes/vc_extra_shortcodes/recentpost.php:134
+msgid "Order (\"Asc\", \"Desc\")."
+msgstr ""
+
+#: ../framework/includes/vc_extra_shortcodes/recentpost.php:139
+#: ../framework/includes/vc_extra_shortcodes/team.php:174
+#: ../framework/includes/vc_extra_shortcodes/testimonial.php:129
+#: ../framework/tinymce/cs_shortcode_list.php:1195
+#: ../framework/tinymce/cs_shortcode_list.php:2078
+#: ../framework/tinymce/cs_shortcode_list.php:2279
+msgid "Layout"
+msgstr ""
+
+#: ../framework/includes/vc_extra_shortcodes/shopcarousel.php:8
+msgid "Shop Carousel"
+msgstr ""
+
+#: ../framework/includes/vc_extra_shortcodes/shopcarousel.php:15
+#: ../framework/tinymce/cs_shortcode_list.php:1845
+msgid "The title of carousel featured product."
+msgstr ""
+
+#: ../framework/includes/vc_extra_shortcodes/shopcarousel.php:83
+#: ../framework/tinymce/cs_shortcode_list.php:1905
+msgid "Show Navigation"
+msgstr ""
+
+#: ../framework/includes/vc_extra_shortcodes/shopcarousel.php:88
+#: ../framework/tinymce/cs_shortcode_list.php:1909
+msgid "Show or hide navigation."
+msgstr ""
+
+#: ../framework/includes/vc_extra_shortcodes/shopcarousel.php:97
+#: ../framework/tinymce/cs_shortcode_list.php:1917
+msgid "Show or hide title on your Product."
+msgstr ""
+
+#: ../framework/includes/vc_extra_shortcodes/shopcarousel.php:106
+#: ../framework/tinymce/cs_shortcode_list.php:1925
+msgid "Show or hide category on your Product."
+msgstr ""
+
+#: ../framework/includes/vc_extra_shortcodes/shopcarousel.php:110
+#: ../framework/tinymce/cs_shortcode_list.php:1929
+msgid "Show price"
+msgstr ""
+
+#: ../framework/includes/vc_extra_shortcodes/shopcarousel.php:115
+#: ../framework/tinymce/cs_shortcode_list.php:1933
+msgid "Show or hide price on your Product."
+msgstr ""
+
+#: ../framework/includes/vc_extra_shortcodes/shopcarousel.php:119
+#: ../framework/tinymce/cs_shortcode_list.php:1937
+msgid "Show add to cart"
+msgstr ""
+
+#: ../framework/includes/vc_extra_shortcodes/shopcarousel.php:124
+#: ../framework/tinymce/cs_shortcode_list.php:1941
+msgid "Show or hide add to cart on your Product."
+msgstr ""
+
+#: ../framework/includes/vc_extra_shortcodes/shopcarousel.php:154
+#: ../framework/tinymce/cs_shortcode_list.php:1968
+msgid "Order (\"none\", \"asc\", \"desc\")."
+msgstr ""
+
+#: ../framework/includes/vc_extra_shortcodes/team.php:7
+msgid "Team carousel"
+msgstr ""
+
+#: ../framework/includes/vc_extra_shortcodes/team.php:87
+msgid "Read more"
+msgstr ""
+
+#: ../framework/includes/vc_extra_shortcodes/team.php:94
+msgid "Excerpt length"
+msgstr ""
+
+#: ../framework/includes/vc_extra_shortcodes/team.php:129
+#: ../framework/includes/vc_extra_shortcodes/testimonial.php:78
+#: ../framework/tinymce/cs_shortcode_list.php:2024
+#: ../framework/tinymce/cs_shortcode_list.php:2233
+msgid "Show or hide category on your Team."
+msgstr ""
+
+#: ../framework/includes/vc_extra_shortcodes/team.php:142
+#: ../framework/tinymce/cs_shortcode_list.php:2036
+msgid "Show socials"
+msgstr ""
+
+#: ../framework/includes/vc_extra_shortcodes/team.php:147
+#: ../framework/tinymce/cs_shortcode_list.php:2040
+msgid "Show or hide socials on your Team."
+msgstr ""
+
+#: ../framework/includes/vc_extra_shortcodes/team.php:182
+msgid "."
+msgstr ""
+
+#: ../framework/includes/vc_extra_shortcodes/testimonial.php:7
+#: ../framework/views/posttype/testimonial.php:12
+msgid "Testimonial"
+msgstr ""
+
+#: ../framework/includes/vc_extra_shortcodes/testimonial.php:20
+#: ../framework/tinymce/cs_shortcode_list.php:1985
+#: ../framework/tinymce/cs_shortcode_list.php:2194
+msgid "Enter the Title"
+msgstr ""
+
+#: ../framework/includes/vc_extra_shortcodes/testimonial.php:26
+#: ../framework/tinymce/cs_shortcode_list.php:1990
+#: ../framework/tinymce/cs_shortcode_list.php:2199
+msgid "Enter the description"
+msgstr ""
+
+#: ../framework/includes/vc_extra_shortcodes/testimonial.php:31
+#: ../framework/tinymce/cs_shortcode_list.php:1995
+#: ../framework/tinymce/cs_shortcode_list.php:2204
+msgid "Items Limit"
+msgstr ""
+
+#: ../framework/includes/vc_extra_shortcodes/testimonial.php:37
+msgid "Item width"
+msgstr ""
+
+#: ../framework/includes/vc_extra_shortcodes/testimonial.php:98
+#: ../framework/tinymce/cs_shortcode_list.php:2050
+#: ../framework/tinymce/cs_shortcode_list.php:2251
+msgid "Read More Text"
+msgstr ""
+
+#. translators: %s: title of menu item which is invalid
+#: ../framework/megamenu/mega-menu.php:118
+#, php-format
+msgid "%s (Invalid)"
+msgstr ""
+
+#. translators: %s: title of menu item in draft status
+#: ../framework/megamenu/mega-menu.php:122
+#, php-format
+msgid "%s (Pending)"
+msgstr ""
+
+#: ../framework/megamenu/mega-menu.php:163
+msgid "Edit Menu Item"
+msgstr ""
+
+#: ../framework/megamenu/mega-menu.php:172
+msgid "URL"
+msgstr ""
+
+#: ../framework/megamenu/mega-menu.php:179
+msgid "Navigation Label"
+msgstr ""
+
+#: ../framework/megamenu/mega-menu.php:185
+msgid "Title Attribute"
+msgstr ""
+
+#: ../framework/megamenu/mega-menu.php:192
+msgid "Open link in a new window/tab"
+msgstr ""
+
+#: ../framework/megamenu/mega-menu.php:197
+msgid "CSS Classes (optional)"
+msgstr ""
+
+#: ../framework/megamenu/mega-menu.php:203
+msgid "Link Relationship (XFN)"
+msgstr ""
+
+#: ../framework/megamenu/mega-menu.php:211
+msgid ""
+"The description will be displayed in the menu if the current theme supports "
+"it."
+msgstr ""
+
+#: ../framework/megamenu/mega-menu.php:221
+msgid "Mega menu"
+msgstr ""
+
+#: ../framework/megamenu/mega-menu.php:254
+msgid "Click to browse icon"
+msgstr ""
+
+#: ../framework/megamenu/mega-menu.php:254
+msgid "Browse Icon"
+msgstr ""
+
+#: ../framework/megamenu/mega-menu.php:268
+msgid "Browse Image"
+msgstr ""
+
+#: ../framework/megamenu/mega-menu.php:358
+#, php-format
+msgid "Original: %s"
+msgstr ""
+
+#: ../framework/megamenu/mega-menu.php:371
+msgid "Remove"
+msgstr ""
+
+#: ../framework/megamenu/mega-menu.php:372
+msgid "Cancel"
+msgstr ""
+
+#: ../framework/metaboxes.php:32
+msgid "Page Options"
+msgstr ""
+
+#: ../framework/metaboxes.php:34
+msgid "Video Settings"
+msgstr ""
+
+#: ../framework/metaboxes.php:35
+msgid "Audio Settings"
+msgstr ""
+
+#: ../framework/metaboxes.php:36
+msgid "Quote Settings"
+msgstr ""
+
+#: ../framework/metaboxes.php:37
+msgid "Link Settings"
+msgstr ""
+
+#: ../framework/metaboxes.php:39
+msgid "Team Setting"
+msgstr ""
+
+#: ../framework/metaboxes.php:40
+msgid "Client Url"
+msgstr ""
+
+#: ../framework/metaboxes.php:41
+msgid "Portfolio Setting"
+msgstr ""
+
+#: ../framework/plugins/socialsharing/socialsharing.php:10
+msgid "Share"
+msgstr ""
+
+#: ../framework/plugins/wp_clients/mc_clients.php:138
+#: ../framework/views/posttype/my_client.php:8
+msgid "Add new client"
+msgstr ""
+
+#: ../framework/plugins/wp_clients/mc_clients.php:139
+#: ../framework/views/posttype/my_client.php:9
+msgid "Edit client"
+msgstr ""
+
+#: ../framework/plugins/wp_clients/mc_clients.php:140
+#: ../framework/views/posttype/my_client.php:10
+msgid "New client"
+msgstr ""
+
+#: ../framework/plugins/wp_clients/mc_clients.php:141
+#: ../framework/views/posttype/my_client.php:11
+msgid "All clients"
+msgstr ""
+
+#: ../framework/plugins/wp_clients/mc_clients.php:142
+#: ../framework/views/posttype/my_client.php:12
+msgid "View"
+msgstr ""
+
+#: ../framework/plugins/wp_clients/mc_clients.php:143
+#: ../framework/views/posttype/my_client.php:13
+msgid "Search"
+msgstr ""
+
+#: ../framework/plugins/wp_clients/mc_clients.php:144
+#: ../framework/plugins/wp_clients/mc_clients.php:145
+#: ../framework/views/posttype/my_client.php:14
+#: ../framework/views/posttype/my_client.php:15
+msgid "No clients found."
+msgstr ""
+
+#: ../framework/plugins/wp_clients/mc_clients.php:249
+msgid "None"
+msgstr ""
+
+#: ../framework/plugins/wp_clients/mc_clients.php:300
+msgid "Options"
+msgstr ""
+
+#: ../framework/shortcodes/eventscarousel/styles/style-1.php:61
+msgid "Full Time"
+msgstr ""
+
+#: ../framework/shortcodes/eventscarousel/styles/style-1.php:65
+msgid "Part-Time"
+msgstr ""
+
+#: ../framework/shortcodes/fullbox/fullbox.php:63
+msgid "View more"
+msgstr ""
+
+#: ../framework/shortcodes/gallery/gallery.php:48
+#: ../framework/shortcodes/greyscale/greyscale.php:57
+msgid "Show All"
+msgstr ""
+
+#: ../framework/shortcodes/portfoliocarousel/styles/style-3.php:73
+#: ../framework/shortcodes/portfoliocarousel/styles/style-4.php:73
+#: ../framework/shortcodes/portfoliocarousel/styles/style-5.php:73
+#: ../framework/shortcodes/postcarousel/styles/style-1-retro.php:57
+#: ../framework/shortcodes/postcarousel/styles/style-1-unblemished.php:65
+#: ../framework/shortcodes/postcarousel/styles/style-2-consilium.php:65
+msgid "More"
+msgstr ""
+
+#: ../framework/shortcodes/postcarousel/styles/style-1-consilium.php:90
+#: ../framework/shortcodes/postcarousel/styles/style-1-retro.php:71
+#: ../framework/shortcodes/postcarousel/styles/style-1-unblemished.php:79
+#: ../framework/shortcodes/postcarousel/styles/style-2-consilium.php:79
+#: ../framework/templates/multiple-blog.php:107
+#: ../framework/templates/multiple-blog.php:169
+msgid "No Comments"
+msgstr ""
+
+#: ../framework/templates/blog/blog-none.php:12
+#: ../framework/templates/single/single-none.php:13
+msgid "Nothing Found"
+msgstr ""
+
+#: ../framework/templates/blog/blog-none.php:18
+#: ../framework/templates/single/single-none.php:19
+#, php-format
+msgid ""
+"Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+
+#: ../framework/templates/blog/blog-none.php:22
+#: ../framework/templates/single/single-none.php:23
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+
+#: ../framework/templates/blog/blog-none.php:27
+#: ../framework/templates/single/single-none.php:28
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr ""
+
+#: ../framework/templates/blog/recentpost/blog-audio.php:61
+#: ../framework/templates/blog/recentpost/blog-gallery.php:73
+#: ../framework/templates/blog/recentpost/blog-link.php:31
+#: ../framework/templates/blog/recentpost/blog-none.php:41
+#: ../framework/templates/blog/recentpost/blog-popular-style-2.php:47
+#: ../framework/templates/blog/recentpost/blog-popular-style-3.php:47
+#: ../framework/templates/blog/recentpost/blog-quote.php:35
+#: ../framework/templates/blog/recentpost/blog-video.php:92
+#: ../framework/templates/blog/recentpost/blog.php:41
+#: ../framework/templates/multiple-blog.php:82
+#: ../framework/templates/multiple-blog.php:143
+#, php-format
+msgid "View all posts in %s"
+msgstr ""
+
+#: ../framework/templates/multiple-blog.php:68
+msgid "Posted at "
+msgstr ""
+
+#: ../framework/templates/multiple-blog.php:68
+msgid "h in"
+msgstr ""
+
+#: ../framework/templates/multiple-blog.php:71
+msgid "Design by "
+msgstr ""
+
+#: ../framework/templates/multiple-blog.php:84
+msgid "Categories "
+msgstr ""
+
+#: ../framework/templates/multiple-blog.php:98
+#: ../framework/templates/multiple-blog.php:160
+#, php-format
+msgid "View all posts in tag %s"
+msgstr ""
+
+#: ../framework/templates/multiple-blog.php:101
+msgid "Tags "
+msgstr ""
+
+#: ../framework/templates/multiple-blog.php:128
+msgid "View all posts date "
+msgstr ""
+
+#: ../framework/templates/multiple-blog.php:169
+msgid "View all Comments"
+msgstr ""
+
+#: ../framework/templates/multiple-blog.php:199
+#: ../framework/templates/page/page.php:26
+#: ../framework/templates/single/single-audio.php:38
+#: ../framework/templates/single/single-gallery.php:31
+#: ../framework/templates/single/single-link.php:27
+#: ../framework/templates/single/single-quote.php:34
+#: ../framework/templates/single/single-video.php:56
+#: ../framework/templates/single/single.php:29
+msgid "Pages:"
+msgstr ""
+
+#: ../framework/templates/multiple-blog.php:216
+msgid "MORE"
+msgstr ""
+
+#: ../framework/templates/multiple-blog.php:223
+msgid "READ MORE"
+msgstr ""
+
+#: ../framework/templates/page/page.php:32
+msgid "Edit"
+msgstr ""
+
+#: ../framework/templates/portfolio/portfolio-filters.php:3
+msgid "All"
+msgstr ""
+
+#: ../framework/tinymce/cs_shortcode_list.php:458
+msgid "Boxed"
+msgstr ""
+
+#: ../framework/tinymce/cs_shortcode_list.php:624
+msgid "title size"
+msgstr ""
+
+#: ../framework/tinymce/cs_shortcode_list.php:1125
+msgid "Width (px,%...)"
+msgstr ""
+
+#: ../framework/tinymce/cs_shortcode_list.php:1131
+msgid "Height (px,%...)"
+msgstr ""
+
+#: ../framework/tinymce/cs_shortcode_list.php:1137
+msgid "Values"
+msgstr ""
+
+#: ../framework/tinymce/cs_shortcode_list.php:1252
+msgid "Max of posts to show per page"
+msgstr ""
+
+#: ../framework/tinymce/cs_shortcode_list.php:1255
+msgid ""
+"The number of posts load more on each page. Set to \"-1\" for display all "
+"posts on the page or empty not load more."
+msgstr ""
+
+#: ../framework/tinymce/cs_shortcode_list.php:1277
+msgid "Show View Online"
+msgstr ""
+
+#: ../framework/tinymce/cs_shortcode_list.php:1690
+msgid "Show or hide title on your Pricing."
+msgstr ""
+
+#: ../framework/tinymce/cs_shortcode_list.php:1698
+msgid "Show or hide description on your Pricing."
+msgstr ""
+
+#: ../framework/tinymce/cs_shortcode_popup.php:18
+msgid "Choose a shortcode"
+msgstr ""
+
+#: ../framework/tinymce/cs_shortcode_popup.php:57
+msgid "Add Shortcode"
+msgstr ""
+
+#: ../framework/views/extrafields/category.php:10
+msgid "Category Blog Layout"
+msgstr ""
+
+#: ../framework/views/extrafields/category.php:14
+msgid "Full Width"
+msgstr ""
+
+#: ../framework/views/extrafields/category.php:15
+msgid "Sidebar Left"
+msgstr ""
+
+#: ../framework/views/extrafields/category.php:16
+msgid "Sidebar Right"
+msgstr ""
+
+#: ../framework/views/extrafields/category.php:19
+msgid "Select Layout for current Category"
+msgstr ""
+
+#: ../framework/views/metaboxes/blog_options.php:16
+#: ../framework/views/metaboxes/portfolio.php:4
+#: ../framework/views/metaboxes/team.php:4
+msgid "GENERAL"
+msgstr ""
+
+#: ../framework/views/metaboxes/blog_options.php:17
+msgid "BODY"
+msgstr ""
+
+#: ../framework/views/metaboxes/blog_options.php:18
+msgid "HEADER"
+msgstr ""
+
+#: ../framework/views/metaboxes/blog_options.php:19
+msgid "PAGE TITLE & BREADCRUMB"
+msgstr ""
+
+#: ../framework/views/metaboxes/blog_options.php:20
+msgid "SIDEBAR"
+msgstr ""
+
+#: ../framework/views/metaboxes/blog_options.php:21
+msgid "FOOTER"
+msgstr ""
+
+#: ../framework/views/metaboxes/blog_options.php:42
+msgid "Following options only work in boxed mode:"
+msgstr ""
+
+#: ../framework/views/metaboxes/blog_options.php:105
+msgid "Header Fixed Setting:"
+msgstr ""
+
+#: ../framework/views/metaboxes/blog_options.php:132
+msgid "Background Setting:"
+msgstr ""
+
+#: ../framework/views/metaboxes/blog_options.php:165
+msgid "Sticky Header"
+msgstr ""
+
+#: ../framework/views/metaboxes/blog_options.php:174
+msgid "Manage Locations"
+msgstr ""
+
+#: ../framework/views/metaboxes/blog_options.php:322
+msgid "Background setting:"
+msgstr ""
+
+#: ../framework/views/metaboxes/blog_options.php:359
+msgid "Breadcrumb"
+msgstr ""
+
+#: ../framework/views/metaboxes/client.php:7
+#: ../framework/views/metaboxes/portfolio.php:12
+#: ../framework/views/metaboxes/post_link.php:6
+msgid "Please input the URL for your link. http://www.youwebsite.com"
+msgstr ""
+
+#: ../framework/views/metaboxes/portfolio.php:20
+#: ../framework/views/metaboxes/team.php:15
+msgid "Select Portfolio Categories for Carousel"
+msgstr ""
+
+#: ../framework/views/metaboxes/post_audio.php:18
+msgid "Please enter in the URL to the (OGG,MP3,WAV) file"
+msgstr ""
+
+#: ../framework/views/metaboxes/post_quote.php:17
+msgid "Please type the text for your quote here."
+msgstr ""
+
+#: ../framework/views/metaboxes/post_quote.php:22
+msgid "Please type the text for author quote here."
+msgstr ""
+
+#: ../framework/views/metaboxes/post_video.php:42
+msgid ""
+"Please upload the (MP4,WebM,Ogg) video file. You must include both formats."
+msgstr ""
+
+#: ../framework/views/metaboxes/post_video.php:46
+msgid ""
+"Image should be at least 680px wide. Click the \"Upload\" button to begin "
+"uploading your image, followed by \"Select File\" once you have made your "
+"selection. Only applies to self hosted videos."
+msgstr ""
+
+#: ../framework/views/metaboxes/post_video.php:51
+msgid "Enter in a Youtube (http://youtu.be/ID)"
+msgstr ""
+
+#: ../framework/views/metaboxes/post_video.php:56
+msgid "Enter in a Vimeo (http://vimeo.com/ID)"
+msgstr ""
+
+#: ../framework/views/metaboxes/post_video.php:64
+msgid "Video Formats and Browser Support"
+msgstr ""
+
+#: ../framework/views/posttype/portfolio.php:5
+msgid "Portfolio Item"
+msgstr ""
+
+#: ../framework/views/posttype/portfolio.php:6
+msgid "Search Portfolio Items"
+msgstr ""
+
+#: ../framework/views/posttype/portfolio.php:8
+msgid "Parent Portfolio Item"
+msgstr ""
+
+#: ../framework/views/posttype/portfolio.php:9
+msgid "Edit Portfolio Item"
+msgstr ""
+
+#: ../framework/views/posttype/portfolio.php:10
+msgid "Update Portfolio Item"
+msgstr ""
+
+#: ../framework/views/posttype/portfolio.php:11
+msgid "Add New Portfolio Item"
+msgstr ""
+
+#: ../framework/views/posttype/portfolio.php:12
+msgid "No portfolio found"
+msgstr ""
+
+#: ../framework/views/posttype/portfolio.php:18
+#: ../framework/views/posttype/pricing.php:21
+#: ../framework/views/posttype/team.php:24
+#: ../framework/views/posttype/testimonial.php:29
+msgid "Project"
+msgstr ""
+
+#: ../framework/views/posttype/portfolio.php:30
+msgid "Portfolio Categories"
+msgstr ""
+
+#: ../framework/views/posttype/portfolio.php:33
+#: ../framework/views/posttype/portfolio.php:47
+msgid "Portfolio Tags"
+msgstr ""
+
+#: ../framework/views/posttype/portfolio.php:34
+msgid "Tag"
+msgstr ""
+
+#: ../framework/views/posttype/portfolio.php:35
+#: ../framework/views/posttype/testimonial.php:46
+msgid "Search Tags"
+msgstr ""
+
+#: ../framework/views/posttype/portfolio.php:36
+#: ../framework/views/posttype/testimonial.php:47
+msgid "Popular Tags"
+msgstr ""
+
+#: ../framework/views/posttype/portfolio.php:37
+#: ../framework/views/posttype/testimonial.php:48
+msgid "All Tags"
+msgstr ""
+
+#: ../framework/views/posttype/portfolio.php:40
+#: ../framework/views/posttype/testimonial.php:51
+msgid "Edit Tag"
+msgstr ""
+
+#: ../framework/views/posttype/portfolio.php:41
+#: ../framework/views/posttype/testimonial.php:52
+msgid "Update Tag"
+msgstr ""
+
+#: ../framework/views/posttype/portfolio.php:42
+#: ../framework/views/posttype/testimonial.php:53
+msgid "Add New Tag"
+msgstr ""
+
+#: ../framework/views/posttype/portfolio.php:43
+#: ../framework/views/posttype/testimonial.php:54
+msgid "New Tag Name"
+msgstr ""
+
+#: ../framework/views/posttype/portfolio.php:44
+#: ../framework/views/posttype/testimonial.php:55
+msgid "Separate tags with commas"
+msgstr ""
+
+#: ../framework/views/posttype/portfolio.php:45
+#: ../framework/views/posttype/testimonial.php:56
+msgid "Add or remove tags"
+msgstr ""
+
+#: ../framework/views/posttype/portfolio.php:46
+#: ../framework/views/posttype/testimonial.php:57
+msgid "Choose from the most used tags"
+msgstr ""
+
+#: ../framework/views/posttype/pricing.php:8
+msgid "Pricing & Service"
+msgstr ""
+
+#: ../framework/views/posttype/pricing.php:9
+msgid "Pricing Item"
+msgstr ""
+
+#: ../framework/views/posttype/pricing.php:10
+msgid "Search Pricing Items"
+msgstr ""
+
+#: ../framework/views/posttype/pricing.php:11
+msgid "Pricing"
+msgstr ""
+
+#: ../framework/views/posttype/pricing.php:12
+msgid "Parent Pricing Item"
+msgstr ""
+
+#: ../framework/views/posttype/pricing.php:13
+msgid "Edit Pricing Item"
+msgstr ""
+
+#: ../framework/views/posttype/pricing.php:14
+msgid "Update Pricing Item"
+msgstr ""
+
+#: ../framework/views/posttype/pricing.php:15
+msgid "Add New Pricing Item"
+msgstr ""
+
+#: ../framework/views/posttype/pricing.php:16
+msgid "No pricing found"
+msgstr ""
+
+#: ../framework/views/posttype/pricing.php:33
+msgid "Pricing Categories"
+msgstr ""
+
+#: ../framework/views/posttype/team.php:7
+#: ../framework/views/posttype/team.php:10
+msgid "Team"
+msgstr ""
+
+#: ../framework/views/posttype/team.php:8
+msgid "Team Item"
+msgstr ""
+
+#: ../framework/views/posttype/team.php:9
+msgid "Search Team Items"
+msgstr ""
+
+#: ../framework/views/posttype/team.php:11
+msgid "Parent Team Item"
+msgstr ""
+
+#: ../framework/views/posttype/team.php:12
+msgid "Edit Team Item"
+msgstr ""
+
+#: ../framework/views/posttype/team.php:13
+msgid "Update Team Item"
+msgstr ""
+
+#: ../framework/views/posttype/team.php:14
+msgid "Add New Team Item"
+msgstr ""
+
+#: ../framework/views/posttype/team.php:15
+msgid "No team found"
+msgstr ""
+
+#: ../framework/views/posttype/team.php:34
+msgid "Team Categories"
+msgstr ""
+
+#: ../framework/views/posttype/testimonial.php:9
+msgid "Testimonials"
+msgstr ""
+
+#: ../framework/views/posttype/testimonial.php:10
+msgid "Testimonial Item"
+msgstr ""
+
+#: ../framework/views/posttype/testimonial.php:11
+msgid "Search Testimonial Items"
+msgstr ""
+
+#: ../framework/views/posttype/testimonial.php:13
+msgid "Parent Testimonial Item"
+msgstr ""
+
+#: ../framework/views/posttype/testimonial.php:14
+msgid "Edit Testimonial Item"
+msgstr ""
+
+#: ../framework/views/posttype/testimonial.php:15
+msgid "Update Testimonial Item"
+msgstr ""
+
+#: ../framework/views/posttype/testimonial.php:16
+msgid "Add New Testimonial Item"
+msgstr ""
+
+#: ../framework/views/posttype/testimonial.php:17
+msgid "No testimonial found"
+msgstr ""
+
+#: ../framework/views/posttype/testimonial.php:41
+msgid "Testimonial Categories"
+msgstr ""
+
+#: ../framework/views/posttype/testimonial.php:58
+msgid "Testimonial Tags"
+msgstr ""
+
+#: ../framework/widgets/cart_search.php:6
+msgid "Cart & Search"
+msgstr ""
+
+#: ../framework/widgets/cart_search.php:7
+msgid "Display the user's Cart and Search form in the sidebar."
+msgstr ""
+
+#: ../framework/widgets/cart_search.php:75
+#: ../framework/widgets/cart_search.php:186
+#: ../woocommerce/cart/mini-cart.php:51
+msgid "No products in the cart."
+msgstr ""
+
+#: ../framework/widgets/cart_search.php:85
+#: ../framework/widgets/cart_search.php:196
+msgid "Cart"
+msgstr ""
+
+#: ../framework/widgets/cart_search.php:86
+#: ../framework/widgets/cart_search.php:197 ../woocommerce/cart/cart.php:30
+#: ../woocommerce/checkout/review-order.php:19
+msgid "Total"
+msgstr ""
+
+#: ../framework/widgets/cart_search.php:114
+#: ../framework/widgets/recent_post_v1.php:120
+#: ../framework/widgets/recent_post_v2.php:104
+#: ../framework/widgets/social.php:239
+#: ../framework/widgets/ww_theme_demo.php:318
+msgid "Title:"
+msgstr ""
+
+#: ../framework/widgets/categories_list.php:12
+msgid "CS Categories Content"
+msgstr ""
+
+#: ../framework/widgets/categories_list.php:12
+#: ../framework/widgets/news_tabs.php:12
+msgid "Popular post, recent post and comments."
+msgstr ""
+
+#: ../framework/widgets/facebook.php:7
+msgid "Facebook Box"
+msgstr ""
+
+#: ../framework/widgets/facebook.php:8
+msgid "Facebook Box Widget"
+msgstr ""
+
+#: ../framework/widgets/facebook.php:15 ../framework/widgets/social.php:7
+#: ../framework/widgets/social.php:17
+msgid "Social"
+msgstr ""
+
+#: ../framework/widgets/instagram.php:7
+msgid "CS Instagram"
+msgstr ""
+
+#: ../framework/widgets/instagram.php:8
+msgid "CS Instagram Widget"
+msgstr ""
+
+#: ../framework/widgets/instagram.php:84
+msgid "Instagram"
+msgstr ""
+
+#: ../framework/widgets/instagram.php:84
+msgid "Follow Us"
+msgstr ""
+
+#: ../framework/widgets/instagram.php:96
+msgid "Number of photos"
+msgstr ""
+
+#: ../framework/widgets/instagram.php:98
+msgid "Photo size"
+msgstr ""
+
+#: ../framework/widgets/instagram.php:100
+msgid "Thumbnail"
+msgstr ""
+
+#: ../framework/widgets/instagram.php:104
+msgid "Open links in"
+msgstr ""
+
+#: ../framework/widgets/instagram.php:106
+msgid "Current window (_self)"
+msgstr ""
+
+#: ../framework/widgets/instagram.php:107
+msgid "New window (_blank)"
+msgstr ""
+
+#: ../framework/widgets/instagram.php:110
+msgid "Link text"
+msgstr ""
+
+#: ../framework/widgets/instagram.php:125
+msgid "Unable to communicate with Instagram."
+msgstr ""
+
+#: ../framework/widgets/instagram.php:128
+msgid "Instagram did not return a 200."
+msgstr ""
+
+#: ../framework/widgets/instagram.php:135
+msgid "Instagram has returned invalid data."
+msgstr ""
+
+#: ../framework/widgets/news_tabs.php:12
+msgid "CS News Tab Widget"
+msgstr ""
+
+#: ../framework/widgets/news_tabs.php:45
+msgid "Popular"
+msgstr ""
+
+#: ../framework/widgets/news_tabs.php:48
+msgid "Recent"
+msgstr ""
+
+#: ../framework/widgets/news_tabs.php:82
+#: ../framework/widgets/news_tabs.php:118
+#: ../framework/widgets/recent_post_v2.php:72
+msgid "Read More..."
+msgstr ""
+
+#: ../framework/widgets/recent_post_v1.php:11
+msgid "Your site&#8217;s most recent Posts."
+msgstr ""
+
+#: ../framework/widgets/recent_post_v1.php:12
+msgid "CS Recent Posts V1"
+msgstr ""
+
+#: ../framework/widgets/recent_post_v1.php:42
+#: ../framework/widgets/recent_post_v2.php:19
+msgid "Recent Posts"
+msgstr ""
+
+#: ../framework/widgets/recent_post_v1.php:123
+msgid "Number of posts to show:"
+msgstr ""
+
+#: ../framework/widgets/recent_post_v1.php:127
+msgid "Display post date?"
+msgstr ""
+
+#: ../framework/widgets/recent_post_v2.php:12
+msgid "CS Recent Posts V2"
+msgstr ""
+
+#: ../framework/widgets/recent_post_v2.php:12
+msgid "Recent Posts Widget."
+msgstr ""
+
+#: ../framework/widgets/recent_post_v2.php:108
+msgid "Show date:"
+msgstr ""
+
+#: ../framework/widgets/recent_post_v2.php:112
+msgid "Number of products to show:"
+msgstr ""
+
+#: ../framework/widgets/social.php:8
+msgid "Social Widget"
+msgstr ""
+
+#: ../framework/widgets/social.php:242
+msgid "Icon Facebook:"
+msgstr ""
+
+#: ../framework/widgets/social.php:244
+msgid "Link Facebook:"
+msgstr ""
+
+#: ../framework/widgets/social.php:247
+msgid "Icon rss:"
+msgstr ""
+
+#: ../framework/widgets/social.php:249
+msgid "Link rss:"
+msgstr ""
+
+#: ../framework/widgets/social.php:252
+msgid "Icon youtube:"
+msgstr ""
+
+#: ../framework/widgets/social.php:254
+msgid "Link youtube:"
+msgstr ""
+
+#: ../framework/widgets/social.php:257
+msgid "Icon twitter:"
+msgstr ""
+
+#: ../framework/widgets/social.php:259
+msgid "Link twitter:"
+msgstr ""
+
+#: ../framework/widgets/social.php:262
+msgid "Icon google:"
+msgstr ""
+
+#: ../framework/widgets/social.php:264
+msgid "Link google:"
+msgstr ""
+
+#: ../framework/widgets/social.php:267
+msgid "Icon skype:"
+msgstr ""
+
+#: ../framework/widgets/social.php:269
+msgid "Link skype:"
+msgstr ""
+
+#: ../framework/widgets/social.php:272
+msgid "Icon yahoo:"
+msgstr ""
+
+#: ../framework/widgets/social.php:274
+msgid "Link yahoo:"
+msgstr ""
+
+#: ../framework/widgets/social.php:277
+msgid "Icon dribbble:"
+msgstr ""
+
+#: ../framework/widgets/social.php:279
+msgid "Link dribbble:"
+msgstr ""
+
+#: ../framework/widgets/social.php:282
+msgid "Icon flickr:"
+msgstr ""
+
+#: ../framework/widgets/social.php:284
+msgid "Link flickr:"
+msgstr ""
+
+#: ../framework/widgets/social.php:287
+msgid "Icon linkedin:"
+msgstr ""
+
+#: ../framework/widgets/social.php:289
+msgid "Link linkedin:"
+msgstr ""
+
+#: ../framework/widgets/social.php:292
+msgid "Icon vimeo:"
+msgstr ""
+
+#: ../framework/widgets/social.php:294
+msgid "Link vimeo:"
+msgstr ""
+
+#: ../framework/widgets/social.php:297
+msgid "Icon pinterest:"
+msgstr ""
+
+#: ../framework/widgets/social.php:299
+msgid "Link pinterest:"
+msgstr ""
+
+#: ../framework/widgets/social.php:302
+msgid "Icon github:"
+msgstr ""
+
+#: ../framework/widgets/social.php:304
+msgid "Link github:"
+msgstr ""
+
+#: ../framework/widgets/social.php:307
+msgid "Icon instagram:"
+msgstr ""
+
+#: ../framework/widgets/social.php:309
+msgid "Link instagram:"
+msgstr ""
+
+#: ../framework/widgets/tweets.php:17
+msgid "CS Twitter"
+msgstr ""
+
+#: ../framework/widgets/ww_theme_demo.php:8
+#: ../framework/widgets/ww_theme_demo.php:17
+msgid "CONSILIUM THEME DEMOS"
+msgstr ""
+
+#: ../framework/widgets/ww_theme_demo.php:9
+msgid "Theme Demo Widget"
+msgstr ""
+
+#: ../framework/widgets/ww_theme_demo.php:321
+msgid "Link Custom 1:"
+msgstr ""
+
+#: ../framework/widgets/ww_theme_demo.php:323
+msgid "Image Url 1:"
+msgstr ""
+
+#: ../framework/widgets/ww_theme_demo.php:325
+msgid "Title Text 1:"
+msgstr ""
+
+#: ../framework/widgets/ww_theme_demo.php:328
+msgid "Link Custom 2:"
+msgstr ""
+
+#: ../framework/widgets/ww_theme_demo.php:330
+msgid "Image Url 2:"
+msgstr ""
+
+#: ../framework/widgets/ww_theme_demo.php:332
+msgid "Title Text 2:"
+msgstr ""
+
+#: ../framework/widgets/ww_theme_demo.php:335
+msgid "Link Custom 3:"
+msgstr ""
+
+#: ../framework/widgets/ww_theme_demo.php:337
+msgid "Image Url 3:"
+msgstr ""
+
+#: ../framework/widgets/ww_theme_demo.php:339
+msgid "Title Text 3:"
+msgstr ""
+
+#: ../framework/widgets/ww_theme_demo.php:342
+msgid "Link Custom 4:"
+msgstr ""
+
+#: ../framework/widgets/ww_theme_demo.php:344
+msgid "Image Url 4:"
+msgstr ""
+
+#: ../framework/widgets/ww_theme_demo.php:346
+msgid "Title Text 4:"
+msgstr ""
+
+#: ../framework/widgets/ww_theme_demo.php:349
+msgid "Link Custom 5:"
+msgstr ""
+
+#: ../framework/widgets/ww_theme_demo.php:351
+msgid "Image Url 5:"
+msgstr ""
+
+#: ../framework/widgets/ww_theme_demo.php:353
+msgid "Title Text 5:"
+msgstr ""
+
+#: ../framework/widgets/ww_theme_demo.php:356
+msgid "Link Custom 6:"
+msgstr ""
+
+#: ../framework/widgets/ww_theme_demo.php:358
+msgid "Image Url 6:"
+msgstr ""
+
+#: ../framework/widgets/ww_theme_demo.php:360
+msgid "Title Text 6:"
+msgstr ""
+
+#: ../framework/widgets/ww_theme_demo.php:363
+msgid "Link Custom 7:"
+msgstr ""
+
+#: ../framework/widgets/ww_theme_demo.php:365
+msgid "Image Url 7:"
+msgstr ""
+
+#: ../framework/widgets/ww_theme_demo.php:367
+msgid "Title Text 7:"
+msgstr ""
+
+#: ../framework/widgets/ww_theme_demo.php:370
+msgid "Link Custom 8:"
+msgstr ""
+
+#: ../framework/widgets/ww_theme_demo.php:372
+msgid "Image Url 8:"
+msgstr ""
+
+#: ../framework/widgets/ww_theme_demo.php:374
+msgid "Title Text 8:"
+msgstr ""
+
+#: ../framework/widgets/ww_theme_demo.php:377
+msgid "Link Custom 9:"
+msgstr ""
+
+#: ../framework/widgets/ww_theme_demo.php:379
+msgid "Image Url 9:"
+msgstr ""
+
+#: ../framework/widgets/ww_theme_demo.php:381
+msgid "Title Text 9:"
+msgstr ""
+
+#: ../framework/widgets/ww_theme_demo.php:384
+msgid "Link Custom 10:"
+msgstr ""
+
+#: ../framework/widgets/ww_theme_demo.php:386
+msgid "Image Url 10:"
+msgstr ""
+
+#: ../framework/widgets/ww_theme_demo.php:388
+msgid "Title Text 10:"
+msgstr ""
+
+#: ../framework/widgets/ww_theme_demo.php:391
+msgid "Description:"
+msgstr ""
+
+#: ../functions.php:7
+msgid "Main Navigation"
+msgstr ""
+
+#: ../functions.php:8
+msgid "Top Navigation"
+msgstr ""
+
+#: ../functions.php:9
+msgid "Left Navigation"
+msgstr ""
+
+#: ../functions.php:10
+msgid "Right Navigation"
+msgstr ""
+
+#: ../functions.php:11
+msgid "404 Useful Pages"
+msgstr ""
+
+#: ../functions.php:12
+msgid "Sticky Header Navigation"
+msgstr ""
+
+#: ../functions.php:698
+msgid " / Page"
+msgstr ""
+
+#: ../functions.php:1331 ../header.php:113
+msgid "404"
+msgstr ""
+
+#: ../functions.php:1332
+msgid "Page not found."
+msgstr ""
+
+#: ../functions.php:1334
+msgid "Ooops! This is embarrasing!"
+msgstr ""
+
+#: ../functions.php:1335
+msgid "It seems the page you are looking for has been misplaced."
+msgstr ""
+
+#: ../functions.php:1336
+msgid "Please "
+msgstr ""
+
+#: ../functions.php:1337
+msgid "click here"
+msgstr ""
+
+#: ../functions.php:1338
+msgid " to get back home"
+msgstr ""
+
+#: ../header.php:111 ../search.php:25
+#, php-format
+msgid "Search Results for: %s"
+msgstr ""
+
+#: ../inc/extras.php:63
+#, php-format
+msgid "Page %s"
+msgstr ""
+
+#: ../inc/template-tags.php:43
+msgid "&larr; Previous"
+msgstr ""
+
+#: ../inc/template-tags.php:44
+msgid "Next &rarr;"
+msgstr ""
+
+#: ../single-event.php:55 ../single.php:58
+msgid "TAGS:"
+msgstr ""
+
+#: ../vc_templates/vc_accordion_tab.php:5
+msgid "Section"
+msgstr ""
+
+#: ../vc_templates/vc_accordion_tab.php:13
+msgid "Empty section. Edit page to add content here."
+msgstr ""
+
+#: ../vc_templates/vc_tabs.php:47 ../vc_templates/vc_tabs.php:75
+#: ../vc_templates/vc_tabs.php:103
+msgid "Previous slide"
+msgstr ""
+
+#: ../vc_templates/vc_tabs.php:47 ../vc_templates/vc_tabs.php:75
+#: ../vc_templates/vc_tabs.php:103
+msgid "Next slide"
+msgstr ""
+
+#: ../woocommerce/cart/cart-empty.php:16
+msgid "Your cart is currently empty."
+msgstr ""
+
+#: ../woocommerce/cart/cart-empty.php:20
+msgid "Return To Shop"
+msgstr ""
+
+#: ../woocommerce/cart/cart.php:27 ../woocommerce/checkout/form-pay.php:19
+#: ../woocommerce/checkout/review-order.php:18
+msgid "Product"
+msgstr ""
+
+#: ../woocommerce/cart/cart.php:28
+msgid "Price"
+msgstr ""
+
+#: ../woocommerce/cart/cart.php:29
+msgid "Quantity"
+msgstr ""
+
+#: ../woocommerce/cart/cart.php:47
+msgid "Remove this item"
+msgstr ""
+
+#: ../woocommerce/cart/cart.php:74
+msgid "Available on backorder"
+msgstr ""
+
+#: ../woocommerce/cart/cart.php:125
+msgid "Coupon code"
+msgstr ""
+
+#: ../woocommerce/cart/cart.php:125
+msgid "Apply Coupon"
+msgstr ""
+
+#: ../woocommerce/cart/cart.php:132
+msgid "Update Cart"
+msgstr ""
+
+#: ../woocommerce/cart/cart.php:132
+msgid "Proceed to Checkout"
+msgstr ""
+
+#: ../woocommerce/cart/mini-cart.php:59
+msgid "Subtotal"
+msgstr ""
+
+#: ../woocommerce/cart/mini-cart.php:64
+msgid "View Cart"
+msgstr ""
+
+#: ../woocommerce/cart/mini-cart.php:65
+msgid "Checkout"
+msgstr ""
+
+#: ../woocommerce/cart/shipping-calculator.php:22
+msgid "Calculate Shipping"
+msgstr ""
+
+#: ../woocommerce/cart/shipping-calculator.php:28
+msgid "Select a country&hellip;"
+msgstr ""
+
+#: ../woocommerce/cart/shipping-calculator.php:45
+#: ../woocommerce/cart/shipping-calculator.php:51
+#: ../woocommerce/cart/shipping-calculator.php:63
+msgid "State / county"
+msgstr ""
+
+#: ../woocommerce/cart/shipping-calculator.php:52
+msgid "Select a state&hellip;"
+msgstr ""
+
+#: ../woocommerce/cart/shipping-calculator.php:72
+msgid "City"
+msgstr ""
+
+#: ../woocommerce/cart/shipping-calculator.php:80
+msgid "Postcode / Zip"
+msgstr ""
+
+#: ../woocommerce/cart/shipping-calculator.php:85
+msgid "Update Totals"
+msgstr ""
+
+#: ../woocommerce/checkout/form-pay.php:20
+msgid "Qty"
+msgstr ""
+
+#: ../woocommerce/checkout/form-pay.php:21
+msgid "Totals"
+msgstr ""
+
+#: ../woocommerce/checkout/form-pay.php:54
+msgid "Payment"
+msgstr ""
+
+#: ../woocommerce/checkout/form-pay.php:79
+msgid ""
+"Sorry, it seems that there are no available payment methods for your "
+"location. Please contact us if you require assistance or wish to make "
+"alternate arrangements."
+msgstr ""
+
+#: ../woocommerce/checkout/form-pay.php:89
+msgid "Pay for order"
+msgstr ""
+
+#: ../woocommerce/checkout/review-order.php:25
+msgid "Cart Subtotal"
+msgstr ""
+
+#: ../woocommerce/checkout/review-order.php:79
+msgid "Order Total"
+msgstr ""
+
+#: ../woocommerce/checkout/review-order.php:150
+msgid "Please fill in your details above to see available payment methods."
+msgstr ""
+
+#: ../woocommerce/checkout/review-order.php:152
+msgid ""
+"Sorry, it seems that there are no available payment methods for your state. "
+"Please contact us if you require assistance or wish to make alternate "
+"arrangements."
+msgstr ""
+
+#: ../woocommerce/checkout/review-order.php:163
+msgid ""
+"Since your browser does not support JavaScript, or it is disabled, please "
+"ensure you click the <em>Update Totals</em> button before placing your "
+"order. You may be charged more than the amount stated above if you fail to "
+"do so."
+msgstr ""
+
+#: ../woocommerce/checkout/review-order.php:163
+msgid "Update totals"
+msgstr ""
+
+#: ../woocommerce/checkout/review-order.php:170
+msgid "Place order"
+msgstr ""
+
+#: ../woocommerce/checkout/review-order.php:179
+#, php-format
+msgid ""
+"I&rsquo;ve read and accept the <a href=\"%s\" target=\"_blank\">terms &amp; "
+"conditions</a>"
+msgstr ""
+
+#: ../woocommerce/global/breadcrumb.php:66
+msgid "Products tagged &ldquo;"
+msgstr ""
+
+#: ../woocommerce/global/breadcrumb.php:94
+#: ../woocommerce/global/breadcrumb.php:192
+msgid "Search results for &ldquo;"
+msgstr ""
+
+#: ../woocommerce/global/breadcrumb.php:150
+msgid "Error 404"
+msgstr ""
+
+#: ../woocommerce/global/breadcrumb.php:196
+msgid "Posts tagged &ldquo;"
+msgstr ""
+
+#: ../woocommerce/global/breadcrumb.php:201
+msgid "Author:"
+msgstr ""
+
+#: ../woocommerce/global/breadcrumb.php:206
+msgid "Page"
+msgstr ""
+
+#: ../woocommerce/loop/add-to-cart.php:14
+msgid "Out of stock"
+msgstr ""
+
+#: ../woocommerce/loop/no-products-found.php:14
+msgid "No products were found matching your selection."
+msgstr ""
+
+#: ../woocommerce/loop/orderby.php:21
+msgid "Default sorting"
+msgstr ""
+
+#: ../woocommerce/loop/orderby.php:22
+msgid "Sort by popularity"
+msgstr ""
+
+#: ../woocommerce/loop/orderby.php:23
+msgid "Sort by average rating"
+msgstr ""
+
+#: ../woocommerce/loop/orderby.php:24
+msgid "Sort by newness"
+msgstr ""
+
+#: ../woocommerce/loop/orderby.php:25
+msgid "Sort by price: low to high"
+msgstr ""
+
+#: ../woocommerce/loop/orderby.php:26
+msgid "Sort by price: high to low"
+msgstr ""
+
+#: ../woocommerce/loop/result-count.php:28
+msgid "Showing the single result"
+msgstr ""
+
+#: ../woocommerce/loop/result-count.php:30
+#, php-format
+msgid "Showing all %d results"
+msgstr ""
+
+#: ../woocommerce/loop/sale-flash.php:16
+#: ../woocommerce/single-product/sale-flash.php:16
+msgid "Sale"
+msgstr ""
+
+#: ../woocommerce/myaccount/form-add-payment-method.php:40
+msgid ""
+"Sorry, it seems that there are no payment methods which support adding a new "
+"payment method. Please contact us if you require assistance or wish to make "
+"alternate arrangements."
+msgstr ""
+
+#: ../woocommerce/myaccount/form-add-payment-method.php:48
+msgid "Add Payment Method"
+msgstr ""
+
+#: ../woocommerce/single-product-reviews.php:38
+msgid "There are no reviews yet."
+msgstr ""
+
+#: ../woocommerce/single-product-reviews.php:51
+msgid "Add a review"
+msgstr ""
+
+#: ../woocommerce/single-product-reviews.php:51
+msgid "Be the first to review"
+msgstr ""
+
+#: ../woocommerce/single-product-reviews.php:56
+msgid "Name"
+msgstr ""
+
+#: ../woocommerce/single-product-reviews.php:58
+msgid "Email"
+msgstr ""
+
+#: ../woocommerce/single-product-reviews.php:67
+msgid "Your Rating"
+msgstr ""
+
+#: ../woocommerce/single-product-reviews.php:68
+msgid "Rate&hellip;"
+msgstr ""
+
+#: ../woocommerce/single-product-reviews.php:69
+msgid "Perfect"
+msgstr ""
+
+#: ../woocommerce/single-product-reviews.php:70
+msgid "Good"
+msgstr ""
+
+#: ../woocommerce/single-product-reviews.php:71
+msgid "Average"
+msgstr ""
+
+#: ../woocommerce/single-product-reviews.php:72
+msgid "Not that bad"
+msgstr ""
+
+#: ../woocommerce/single-product-reviews.php:73
+msgid "Very Poor"
+msgstr ""
+
+#: ../woocommerce/single-product-reviews.php:77
+msgid "Your Review"
+msgstr ""
+
+#: ../woocommerce/single-product-reviews.php:86
+msgid ""
+"Only logged in customers who have purchased this product may leave a review."
+msgstr ""
+
+#: ../woocommerce/single-product/add-to-cart/simple.php:44
+msgid "Add to cart"
+msgstr ""
+
+#: ../woocommerce/single-product/add-to-cart/variable.php:25
+msgid "Choose an option"
+msgstr ""
+
+#: ../woocommerce/single-product/add-to-cart/variable.php:73
+msgid "Clear selection"
+msgstr ""
+
+#: ../woocommerce/single-product/add-to-cart/variable.php:103
+msgid "This product is currently out of stock and unavailable."
+msgstr ""
+
+#: ../woocommerce/single-product/rating.php:24
+#, php-format
+msgid "Rated %s out of 5"
+msgstr ""
+
+#: ../woocommerce/single-product/rating.php:26
+msgid "out of 5"
+msgstr ""
+
+#: ../woocommerce/single-product/tabs/additional-information.php:17
+msgid "Additional Information"
+msgstr ""
+
+#: ../woocommerce/single-product/tabs/description.php:14
+msgid "Product Description"
+msgstr ""
+
+#: ../woocommerce/single-product/up-sells.php:39
+msgid "You may also like&hellip;"
+msgstr ""
